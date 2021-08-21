@@ -1,0 +1,158 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    width: 100%;
+    height: 120px;
+    background-color: whitesmoke;
+}
+
+.login-container {
+    margin-top: 4px;
+    box-sizing: border-box;
+    float: right;
+}
+
+.login-container input {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 14px;
+    border: none;
+    width: 150px;
+}
+
+.login-container button {
+    padding: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 16px;
+    background: #ddd;
+    border: none;
+    cursor: pointer;
+}
+
+.login-container button:hover {
+    background-color: rgb(136, 136, 226);
+}
+
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.logo {
+    margin-left: -98px;
+    margin-top: -86px;
+}
+
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav :hover {
+    background-color: whitesmoke;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #04AA6d;
+    color: white;
+}
+
+.topnav input {
+    float: right;
+    padding: 12px;
+    border: none;
+    margin-top: 2px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+
+.div-word {
+    margin: 10px auto;
+    width: 400px;
+}
+
+.div-word input {
+    padding: 12px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+
+.div-word button {
+    border: 2px solid black;
+    padding-bottom: 2px;
+    cursor: pointer;
+}
+
+#search-button {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+#search-button:hover {
+    color: #DD4124;
+    cursor: pointer;
+}
+
+
+/* result of search word*/
+
+.result-box {
+    display: block;
+    padding: 10px;
+    border: 2px black solid;
+    width: 65%;
+    float: left;
+    margin: 5px;
+}
+
+.illustration {
+    width: 27%;
+    display: block;
+    border: solid 2px black;
+    float: left;
+    margin: 5px;
+    padding: 10px;
+}
+
+
+/*footer */
+
+footer {
+    height: auto;
+    padding: 50px 100px;
+    background: rgb(228, 200, 148);
+    float: left;
+}
+
+.footer-container .aboutme {
+    width: 40%;
+    float: left;
+    margin-right: 50px;
+}
+
+.footer-container .aboutme .social-icon li {
+    list-style: none;
+    float: left;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.footer-container .member {
+    width: 25%;
+    float: left;
+}
+
+.footer-container .library {
+    width: 25%;
+    float: left;
+}

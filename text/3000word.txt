@@ -1,0 +1,2882 @@
+Bear	Con gấu
+Bird	Con chim
+Cat	Con mèo
+Chicken	Con gà
+Chimpanzee	con hắc tinh tinh
+Cow	Con bò
+Dog	Con chó
+Dolphin	cá heo
+Donkey	Con lừa
+Eel	lươn
+Elephant	Con voi
+Fish	Con cá
+Fox	con cáo
+Giraffe	con hươu cao cổ
+Goat	Con dê
+Hippopotamus	con hà mã
+Horse	Con ngựa
+Insect	Côn trùng
+Jaguar	con báo đốm
+Lion	Sư tử
+Monkey	Con khỉ
+Mouse	Con chuột
+Ox	Con bò đực
+Penguin	chim cánh cụt
+Pig	Con lợn/heo
+Porcupine	con nhím
+Rabbit	Con thỏ
+Raccoon	con gấu mèo
+Rhinoceros	con tê giác
+Shark	cá mập
+Sheep	Con cừu
+Squirrel	con sóc
+Swordfish	cá kiếm
+Tiger	Con hổ
+Turtle	rùa
+Walrus	hải mã
+Whale	cá voi
+Alder	Cây tổng quán sủi
+Apple	Cây táo
+Ash	Cây tần bì
+Beech	Cây sồi
+Birch	Cây gỗ bu lô
+Bloom	Nở hoa
+Bluebell	Hoa chuông xanh
+Bracken	Cây dương xỉ diều hâu
+Branch	Cành cây
+Bud	Chồi, búp cây
+The	Bó hoa
+Bush	Bụi rậm
+Buttercup	Hoa mao lương vàng
+Cactus	Cây xương rồng
+Carnation	Hoa cẩm chướng
+Cedar	Cây tuyết tùng
+Cherry	Cây anh đào
+Chestnut	Cây dẻ
+Chrysanthemum	Hoa cúc
+Coconut	Cây dừa
+Corn	Cây ngô
+Crocus	Hoa nghệ tây
+Daffodil	Hoa thủy tiên vàng
+Dahlia	Hoa thược dược
+Daisy	Hoa cúc
+Dandelion	Hoa bồ công anh
+Elm	Cây đu
+Fern	Cây dương xỉ
+Fig	Cây sung
+Fir	Cây Linh sam
+Flower	Hoa
+Forget-me-not	Hoa lưu ly
+Foxglove	Hoa mao địa hoàng
+Geranium	Hoa phong lữ
+Grass	trồng cỏ
+Grass	Cỏ
+Grow	Mọc lên, lớn lên, phát triển
+Hawthorn	Cây táo gai
+Hazel	Cây phỉ
+Heather	Cây thạch nam
+Herb	Thảo mộc
+Holly	Cây nhựa ruồi
+Horse	Cây dẻ ngựa
+Ivy	Cây thường xuân
+Leaf	Lá cây
+Lily	Hoa loa kèn
+Lime	Cây đoan
+Maple	Cây thích
+Moss	Rêu
+Mushroom	Nấm
+Nettle	Cây tầm ma
+Oak	Cây sồi
+Olive	Cây ô liu
+Orchid	Hoa Lan
+Pansy	Hoa păng xê
+Pear	Cây lê
+Pine	Cây thông
+Plane	Cây tiêu huyền
+Plum	Cây mận
+Poplar	Cây bạch dương
+Poppy	Hoa anh túc
+Primrose	Hoa anh thảo
+Root	Rễ cây
+Rose	Hoa hồng
+Seed	Hạt giống, hạt
+Shrub	Cây bụi
+Snowdrop	Hoa giọt tuyết
+Sycamore	Cây sung dâu
+Thorn	Gai
+Tree	Cây cối
+Trunk	Thân cây
+Tulip	Hoa tulip
+Waterlily	Hoa súng
+Weeping	Cây liễu rủ
+Wheat	Lúa mì
+Willow	Cây liễu
+Wood	Gỗ
+Yew	Cây thủy tùng
+Cherry	Quả anh đào
+Coconut	Quả dừa
+Juice	Nước quả, nước ép
+Juicy	Mọng nước
+Lemon	Quả chanh vàng
+Lime	Quả chanh xanh
+Orange	Quả cam
+Peel	Vỏ ngoài của trái cây
+Ripe	Chín (trái cây)
+Sugar	Mía
+cherry	nh đào
+Basil	cây húng quế
+Bay	lá nguyệt quế
+Bean	Đậu (quả)
+Beet	/biːt/ củ dền
+Bell	Ớt chuông
+Bitter	/ˌbɪt.ə hɜːb/ Rau Đắng
+avocado	Bơ 
+Pomelo	Bưởi
+Cabbage	bắp cải
+Orange	cam
+Carrot	Cà rốt
+Celery	Cần tây
+lemon	Chanh vàng
+lime	Chanh xanh
+Chili	Ớt
+rambutan	Chôm chôm
+Banana	chuối
+Cilantro	ngò rí
+Cilantro	/sɪˈlæn.trəʊ/ Ngò Gai
+Cilantro	/sɪˈlæn.trəʊ/ Ngò Mùi
+Coconut	dừa
+Corn	Ngô
+Cucumber	Dưa chuột
+Peach	Đào
+red	đậu đỏ
+soybean	Đậu nành
+strawberry	Dâu tây
+mung	Đậu xanh
+Dill	cây thì là
+Dứa	pineapple
+Dưa	watermelon
+Eggplant	Cà tím
+Fish	/ˈfɪʃ mɪnt/ Diếp Cá
+Garlic	Tỏi
+Ginger	Gừng
+Green	hành lá
+Marrow	/ˈmærəʊ/ Bí xanh
+Me	tamarind
+Mít	jackfruit
+Mơ	apricot
+Mushroom	Nấm
+Mustard	/ˈmʌstəd liːvz/ Cải Xanh
+Nhãn	longan
+Nho	Grape
+Ổi	guava
+Onion	Hành tây
+Papaya	đu đủ
+Passion	chanh dây
+Pea	Đậu (hạt)
+Pennywort	/ˈpen.i.wɜːt/ Rau Má
+Pepper	/ˈpepə ˈeldə(r)/ Rau càng Cua
+Pepper	/ˈpepə(r)/ ớt chuông
+Peppermint	/ˈpepəmɪnt/ Húng Cây
+Potato	Khoai tây
+Pumpkin	Bí ngô
+Rice	/ˈraɪs ˌpæd.i/ Ngò ôm
+Rosemary	cây hương thảo
+Sapôchê	sapota
+Spearmint	/ˈspɪəmɪnt/ Húng Lủi
+apple	Táo
+Thai	/taɪ ˈbæz.əl/ Húng Quế
+Tomato	Cà chua
+Turmeric	nghệ
+Lychee	Vải
+Vietnamese	/ˌvjet.nəˈmiːz bɑːm/ Kinh Giới
+Vietnamese	/ˌvjet.nəˈmiːz ˌkɒr.iˈæn.dər/ Rau Răm
+Water	/ˈwɔːtə(r) ˈspɪnɪtʃ/ Rau Muống
+Watercress	/ˈwɔːtəkres/ Xà Lách Son
+mango	Xoài
+Yam	/jæm/ khoai mỡ
+A	một ngôi làng
+A	Đường làng
+Agriculture	Nông nghiệp
+An	một khu vực hẻo lánh
+Bay	Vịnh
+Boat	Con đò
+Buffalo	Con trâu
+Canal	Kênh, mương
+Cloud	Mây
+Coast	Bờ biển
+Cottage	Mái nhà tranh
+Desert	Sa mạc
+Farming	Làm ruộng
+Fields	Cánh đồng
+Fish	 Ao cá
+Folk	Trò chơi dân gian
+Forest	Rừng
+Highland	Cao nguyên
+Hill	Đồi
+Horizon	Đường chân trời
+Island	Hòn đảo
+Lake	Hồ
+Land	Đất liền
+Mountain	Núi
+Ocean	Đại dương
+Peace	yên bình
+quiet	yên tĩnh
+Peaceful	Yên bình
+Port	Cảng
+River	Con sông
+Sand	Cát
+Scenery	Phong cảnh, cảnh vật
+Sea	Biển
+Sky	Bầu trời
+Valley	Thung lũng
+Volcano	Núi lửa
+Waterfall	thác nước
+Well	Giếng nước
+Wild	Hoang dã
+Air	Không khí
+Bright	Nắng sáng, tươi sáng
+Chilly	Lạnh lẽo
+Alternative	lựa chọn thay thế (danh từ đếm được)
+Canyon	hẻm núi.
+Clear	Trong xanh, không có mây
+Cliff	vách đá
+Climate	Khí hậu
+Cold	Lạnh
+Cool	Mát mẻ, mát trời
+Deforestation	ô nhiễm không khí
+Drought	Khô hạn, hạn hạn
+Dry	Khô ráo, khô hanh
+Energy	Năng lượng
+Fine	Đẹp trời
+Forecast	Dự báo (thời tiết)
+Forest	rừng.
+Freezing	Rét run, lạnh cóng
+Greenhouse	Nhà kính
+Hot	Nóng
+Hurricane	Bão nhiệt đới
+Plastic	Nhựa, chất dẻo
+Preserve	Bảo tồn, giữ gìn
+Rainy	Có mưa
+Resource	Tài nguyên, nguồn lực
+Snowy	Có tuyết
+Sunny	Trời có nắng
+Tidal	Sóng thần
+Typhoon	Bão nhiệt đới – Tên gọi khi xảy ra tại Tây Bắc Thái Bình Dương
+Warm	Ấm áp
+Waste	Rác thải
+Black	Màu đen
+Blue	Màu xanh dương
+Bright	màu xanh lá cây tươi
+Bright	màu đỏ sáng
+Brown	Màu nâu
+Color	Màu sắc
+Colorful	Rực rỡ, nhiều màu sắc
+Dark	Tối (màu)
+Dark	màu xanh lá cây đậm
+Gold	Màu vàng óng
+Green	Màu xanh lá
+Grey	Màu xám
+Light	màu xanh da trời nhạt
+Light	màu nâu nhạt
+Light	màu xanh lá cây nhạt
+Light	Sáng (màu)
+Orange	Màu cam
+Paint	Sơn, màu vẽ
+Pink	Màu hồng
+Purple	Màu tím
+Red	Màu đỏ
+Shade	Sắc độ
+White	Màu trắng
+Yellow	Màu vàng
+A	tóc cắt ngang trán
+A	người có mái tóc ngắn
+Angular	mặt xương xương
+baby	 em bé, trẻ con
+Bald	hói
+Beard	râu
+Beautiful	đẹp, xinh đẹp
+Birthmark	vết bớt
+Blonde	tóc vàng
+Bloodshot	mắt đỏ ngầu
+Body	thân hình, vóc dáng cơ thể
+Broad	mũi rộng
+Charming	thu hút, quyến rũ
+Chubby	phúng phính
+Curly	tóc xoăn
+Cute	dễ thương, đáng yêu
+Dark	da đen
+Dreamy	đôi mắt mộng mơ
+Dull	mắt lờ đờ
+Dyed	tóc nhuộm
+Fat	béo, thừa cân
+Feature	đặc điểm
+Fit	cân đối, gọn gàng
+Flashing	mắt sáng
+Flat	mũi tẹt
+Frail	yếu đuối, mỏng manh
+Fresh	khuôn mặt tươi tắn
+Frizzy	tóc uốn thành búp
+Frown	nhăn mặt
+Ginger	đỏ hoe
+Good-looking	sáng sủa, ưa nhìn
+Greasy	da nhờn
+Grimace	nhăn nhó
+Grin	cười nhăn răng
+Handsome	đẹp trai
+Heart-shaped	khuôn mặt hình trái tim
+Height	chiều cao
+High	gò má cao
+High	trán cao
+Hooked	mũi khoằm
+Inquisitive	ánh mắt tò mò
+Lank	tóc thẳng và rủ xuống
+Laugh	cười to
+Long	khuôn mặt dài
+Look	vẻ bề ngoài
+Lovely	đáng yêu
+Medium-height	chiều cao trung bình
+Middle-aged	trung niên
+Mole	nốt ruồi
+Moustache	ria mép
+Mousy	màu xám lông chuột
+Muscular	cơ bắp, lực lưỡng
+Muscular	nhiều cơ bắp
+Neat	tóc chải chuốt cẩn thận
+Obese	béo phì
+Of	chiều cao trung bình
+Of	hình thể trung bình
+Old	già
+Old	tuổi nghỉ hư
+Olive-skinned	da nâu, vàng nhạt
+Oriental	da vàng châu á
+Oval	khuôn mặt hình trái xoan
+Overweight	quá cân
+Pale	xanh xao, nhợt nhạt
+Pasty	xanh xao
+Plump	tròn trĩnh
+Pony-tail	cột tóc đuôi ngựa
+Pout	bĩu môi
+Pretty	xinh xắn
+Rosy	hồng hào
+Round	khuôn mặt tròn
+Sallow	vàng vọt
+Scar	sẹo
+Scowl	cau có
+senior	người cao tuổi
+Short	lùn
+Shortish	hơi lùn
+Skinny	ốm, gầy
+Slender	mảnh khảnh
+Slim	gầy, mảnh khảnh
+Smile	cười mỉm
+Snub	mũi hếch
+Sparkling	mắt lấp lánh
+Square	mặt vuông
+Stocky	chắc nịch
+Stout	hơi béo
+Straight	mũi thẳng
+Straight	tóc thẳng
+Sulk	phiền muộn
+Tall	cao
+Tallish	cao dong dỏng
+Thin	gầy
+Thin	khuôn mặt gầy
+toddler	trẻ em ở độ tuổi mới biết đi
+Turned	mũi cao
+Ugly	xấu xí
+Untidy	không chải chuốt, rối xù
+Wavy	tóc lượn sóng
+Weight	cân nặng
+Well-built	hình thể đẹp
+Well-proportioned	cân đối
+With	tóc được tết, bện
+Young	trẻ, trẻ tuổi
+Arm	Cánh tay
+Back	Lưng
+Belly	Bụng
+Body	Bộ phận cơ thể
+Bone	Xương
+Bottom	Mông
+Brain	Não
+Chest	Ngực, lồng ngực
+Ear	Tai
+Eyes	Mắt
+Face	Khuôn mặt
+Finger	Ngón tay
+Hair	Tóc, mái tóc
+Head	Đầu
+Heart	Trái tim
+Hip	Hông
+Kidney	Thận
+Leg	Chân
+Lip	Môi
+Liver	Gan
+Lung	Phổi
+Mouth	Miệng
+Nose	Mũi
+Skin	Làn da
+Stomach	Dạ dày
+Tooth	Răng
+Waist	Eo, vòng eo
+Bend	uốn cong, cúi, gập
+Carry	cầm, mang, vác
+Catch	đỡ lấy, bắt lấy
+Climb	leo, trèo
+Comb	chải tóc
+Crawl	bò, lê bước
+Crouch	khúm núm, luồn cúi
+Cry	khóc
+Dance	nhảy múa, khiêu vũ
+Dive	lặn
+Drag	kéo
+Drink	uống
+Drop	đánh rơi
+Eat	ăn
+Fall	ngã
+Flip	búng
+Grab	bắt lấy, túm lấy
+Hang	treo
+Hit	đánh
+Hold	cầm, nắm
+Hop	nhảy lò cò
+Hug	ôm
+Jog	chạy bộ
+Jump	nhảy
+Kick	đá
+Lean	dựa, tựa
+Lick	liếm
+Lie	nằm
+Lift	nâng lên
+Pack	bó, gói
+Paint	sơn, quét sơn
+Pick	hái, nhổ, cuốc, xỉa, mở, cạy
+Pick	nhặt lên
+Plant	gieo, trồng
+Play	chơi, nô đùa, đùa giỡn
+Point	chỉ, trỏ, nhắm, chĩa
+Pour	rót, đổ, giội, trút
+Pull	lôi, kéo, giật
+Punch	đấ
+Push	xô, đẩy
+Put	mặc, đeo, đội
+Rake	cào
+Read	đọc
+Ride	cưỡi, lái
+Row	chèo thuyền
+Run	chạy
+Sail	điều khiển, lái (thuyền)
+Scrub	lau chùi, cọ rửa
+See	thấy, trông thấy, nhìn thấy; xem, quan sát, xem xét
+Set	bố trí, để, đặt, bày (bàn ăn)
+Sew	may, khâu
+Shake	rung, lắc, run rẩy
+Shout	la hét, hò hét, reo hò
+Show	cho xem, cho thấy, trưng bày, đưa cho xem; tỏ ra
+Sing	hát
+Sit	ngồi
+Skate	trượt (băng, ván)
+Slap	tát
+Sleep	ngủ
+Slice	cắt, thái
+Slip	trượt ngã
+Smile	cười
+Sneeze	hắt hơi
+Spin	quay
+Squat	ngồi xổm
+Stand	đứng
+Step	bước đi
+Stop	ngừng, nghỉ, thôi
+Stretch	duỗi ra, căng ra
+Stroke	vuốt ve
+Sweep	quét
+Swim	bơi
+Swing	đung đưa, lúc lắc
+Take	cầm, nắm, lấy
+Talk	nói chuyện, chuyện trò
+Throw	ném
+Walk	đi bộ
+Wash	gội, rửa
+Wave	vẫy tay
+Yawn	ngáp
+Cheerful	Vui tươi, sôi nổi
+Easy-going	Thoải mái
+Energetic	Tràn đầy năng lượng
+Funny	Vui tính, hài hước
+Generous	Hào phóng
+Grumpy	Cáu kỉnh, khó chịu
+Love	yêu
+Nice	Tốt, tử tế
+Adorable	đáng yêu, đáng quý mến
+Affectionate	thân mật, trìu mến
+Afraid	Lo sợ
+Aggressive	+ hay gây sự, hung hăng, hùng hổ
+Agreeable	dễ chịu, dễ thương, vui lòng, sẵn sàng, tán thành
+Alert	cảnh giác, lanh lợi, tỉnh táo
+Alluring	quyến rũ, lôi cuốn, cám dỗ; có duyên, làm say mê, làm xiêu lòng
+Ambitious	tham vọng
+Amused	thích thú, vui, buồn cười
+Angry	giận dữ, tức giận, cáu
+Angry	Tức giận, giận dữ
+Arrogant	kiêu căng, kiêu ngạo, ngạo mạn
+Artful	xảo quyệt, tinh ranh, ma mãnh, lắm mưu mẹo
+Ashamed	xấu hổ, hổ thẹn, ngượng
+Avaricious	hám lợi, tham lam
+Awful	rất khó chịu, khó chịu vô cùng
+Bored	Chán nản
+Confused	Bối rối
+Disappointed	Thất vọng
+Disgusted	Kinh tởm
+Easy-going	dễ tính
+Embarrassed	Xấu hổ, ngại ngùng
+Energetic	đầy nghị lực, mạnh mẽ, mãnh liệt, đầy năng lượng
+Entertaining	thú vị, làm vui lòng và vừa ý.
+Enthusiastic	hăng hái, say mê, nhiệt tình
+Envious	thèm muốn, ghen tị, đố kỵ
+Erratic	thất thường, được chăng hay chớ
+Excitable	dễ bị kích thích, dễ bị xúc động
+Excited	Hào hứng, hứng thú
+Excited	sôi nổi, hào hứng, bị kích thích, bị kích động
+Explosive	dễ bị bùng nổ, dễ bị kích động
+Extroverted	hướng ngoại
+Exuberant	cởi mở, hồ hởi, đầy sức sống, đầy năng lượng
+Fabulous	tuyệt vời
+Fair	công bằng, ngay thẳng, không gian lận, hợp ý, đúng, phải
+Faithful	trung thành, chung thủy, có lương tâm, trung thực
+Fantastic	tuyệt vời
+Fawning	xu nịnh, bợ đỡ, nịnh hót
+Fear	Nỗi sợ
+Fearless	chẳng sợ điều gì, can đảm
+Fickle	hay thay đổi, không kiên định, không chung thủy
+Fine	tốt, khỏe, giỏi
+Frank	ngay thẳng, thẳng thắn, bộc trực
+Freakish	đồng bóng, hay thay đổi, quái đản, kỳ cục
+Friendly	thân thiện, thân mật, thân thiết, giao hữu
+Funny	buồn cười, khôi hài, ngồ ngộ
+Furious	giận dữ, điên tiết
+Fussy	hay om sòm, hay quan trong hóa, hay nhắng nhít
+Guilty	Thấy tội lỗi
+Happy	Vui vẻ
+Huffish	cáu kỉnh, dễ phát khùng, hay giận dỗi, dễ nổi cáu
+Hungry	Đói
+Lonely	Cô đơn
+Nervous	Lo lắng
+Sad	Buồn bã
+Sick	Ốm yếu
+Surprised	Ngạc nhiên
+Thirsty	Khát
+Tired	Mệt mỏi
+Worried	Lo lắng
+Aunt	Người dì
+Birth	Sự sinh ra, sự chào đời
+Brother	Anh/em trai
+Brother-in-law	anh/em rể
+Close	Gần gũi, gắn bó
+Cousin	Anh chị em họ
+Daughter	Con gái
+Daughter-in-law	con dâu
+Divorce	Li hôn, li dị
+Ex-wife	Vợ cũ
+Father	Cha/Bố
+Father-in-law	bố chồng/bố vợ
+Goddaughter	con gái đỡ đầu
+Godfather	bố đỡ đầu
+Godmother	mẹ đỡ đầu
+Godson	con trai đỡ đầu
+Grandparents	Ông bà
+Half-brother	anh em cùng cha khác mẹ/cùng mẹ khác cha
+Half-sister	chị em cùng cha khác mẹ/cùng mẹ khác cha
+Husband	Người chồng
+Kid	Con cái
+Marry	Cưới
+Mother	Mẹ
+Mother-in-law	Mẹ chồng
+Mother-in-law	mẹ chồng/mẹ vợ
+Niece	Cháu trai/Cháu gái (con của anh/chị/em)
+Parents	Cha mẹ, phụ huynh
+Pregnant	Mang thai
+Relative	Họ hàng
+Sibling	Anh chị em
+Sister	Chị em gái
+Sister-in-law	chị/em dâu
+Son	Con trai
+Son-in-law	con rể
+Stepbrother	con trai của bố dượng/mẹ kế
+Stepdaughter	con gái riêng của chồng/vợ
+Stepfather	bố dượng
+Step-mom	Mẹ kế, dì ghẻ
+Stepmother	mẹ kế
+Stepsister	con gái của bố dượng/mẹ kế
+Stepson	con trai riêng của chồng/vợ
+Uncle	Người chú/cậu/bác
+Wife	Người vợ
+A	một nhóm bạn
+Acquaintance	Người quen
+Acquaintance	người quen
+Argue	Tranh cãi, tranh luận
+Boss	Sếp, cấp trên
+Boyfriend	Bạn trai/Bạn gái
+Break	Chia tay
+Classmate	bạn cùng lớp
+Colleague	Đồng nghiệp
+Companion	bạn đồng hành
+Conflict	Bất đồng, xung đột
+Couple	Cặp đôi
+Customer	Khách hàng
+Date	Cuộc hẹn hò, Hẹn hò
+Emulate	cạnh tranh với ai đó
+Enemy	Kẻ thù
+Friend	Bạn bè
+Friendship	Tình bạn
+Good	bạn tốt
+Hate	Ghét bỏ, căm ghé
+Interact	tương tác
+Introduce	Giới thiệu
+Love	Tình yêu
+Meet	Gặp gỡ, gặp mặt
+Nemesis	báo ứng
+On-off	bạn bình thường
+Rival	đối thủ
+Schoolmate	bạn cùng trường
+Soul	bạn tri kỷ
+Account	thiết lập tài khoản
+Activity	lịch sử đăng nhập
+Archive	lưu trữ
+Cover	ảnh bìa
+Event	sự kiện
+Facebook	người dùng Facebook
+Friend	lời mời kết bạn
+Group	hội, nhóm
+Hide	ẩn
+Information	thông tin
+Message	tin nhắn
+Notification	thông báo
+Offline	ngoại tuyến
+Online	trực tuyến
+Page	fanpage
+Photos	hình ảnh
+Privacy	thiết lập cá nhân
+Profile	ảnh đại diện
+Profile	hồ sơ người dùng
+Rate	đánh giá
+React	phản ứng
+Recent	gần đây
+Review	nhận xét
+Social	mạng xã hội
+Status	trạng thái
+Timeline	thời gian biểu cho tài khoản Facebook cá nhân
+Video	video
+Add	thêm bạn bè
+Block	chặn
+Comment	bình luận, lời bình luận
+Communicate	giao tiếp với
+Confirm	xác nhận
+Create	tạo (fanpage, nhóm, post)
+Delete	xóa
+Find	tìm bạn
+Follow	theo dõi
+Interact	tương tác với
+Join	Tham gia một nhóm
+Keep	giữ liên lạc với
+Like	thích
+Log	đăng nhập
+Log	đăng xuất
+Post	đăng (v), bài đăng (n)
+Reply	trả lời, phản hồi
+Report	báo cáo
+Search	tìm kiếm
+Share	chia sẻ
+Spam	là những nội dung gây phiền toái
+Stay	giữ liên lạc với
+Tag	gắn thẻ
+Unfriend	hủy kết bạn
+Update	cập nhật
+Upload	tải lên một hình ảnh
+View	xem tất cả
+Accessories	Phụ kiện
+Anorak	áo khoác có mũ
+Belt	Thắt lưng
+Blouse	Áo sơ mi (phụ nữ)
+Boot	Ủng, bốt
+Boxer	quần đùi
+Cardigan	áo len cài đằng trước
+Coat	Áo khoác (độ dài qua thắt lưng)
+Dress	Váy liền
+Fit	Vừa vặn, phù hợp
+Glasses	Mắt kính, cặp kính
+Glove	Găng tay
+Handbag	Túi xách
+Jacket	Áo khoác (dài tới thắt lưng)
+Jeans	Quần jean
+Jumper	áo len
+Knee	/ bốt cao gót
+Pants	Quần dài (Anh Mỹ)
+Pullover	áo len chui đầu
+Pyjama	Quần áo ngủ, pijama
+Scarf	Khăn quàng cổ
+Shirt	Áo sơ mi
+Shoes	Đôi giày
+Short	Quần sooc
+Size	Kích cỡ quần áo
+Skirt	Chân váy
+Sneaker	giày thể thao
+Socks	Tất
+Suit	Bộ com lê
+Sweater	Áo Len
+Sweater	áo len
+Swimsuit	Đồ bơi
+Tie	Cà vạt
+Top	áo
+Trousers	Quần dài (Anh Anh)
+Armor	áo giáp
+Armored	xe bọc thép
+Arrow	mũi tên
+Artillery	pháo kích
+Axe	rìu
+Bayonet	lưỡi lê
+Biological	vũ khí sinh học
+Bomb	bom
+Bow	cung tên
+Bullet	viên đạn
+Canon	đại bác
+Chain	dây xích
+Crossbow	nỏ
+Dart	phi tiêu
+Explosive	chất nổ
+Fighter	máy bay chiến đấu
+Grenade	lựu đạn
+Guided	tên lửa đạn đạo
+Halberd	kích
+Hammer	búa
+Handcuffs	còng
+Handgun	súng ngắn
+Horse	mã tấu
+Knife	dao
+Lethal	vũ khí chết người
+Machete	mác
+Machine	súng liên thanh
+Mass-destruction	vũ khí hủy diệt hàng loạt
+Mine	mìn
+Missile	tên lửa
+Nuclear	bom hạt nhân
+Nunchaku	côn nhị khúc
+Pepper	bình xịt hơi cay
+Poison	thuốc độc
+Rake	cây đinh ba
+Rifle	súng trường
+Rod	gậy
+Saber	đao
+Scissors	kéo
+Sickle	lưỡi liềm
+Slingshot	ná
+Spear	cây giáo
+Surface	tên lửa đất đối không
+Sword	cây kiếm
+Taser	súng bắn điện
+Torpedo	ngư lôi
+Whip	roi da
+Bake	Nướng bánh
+Beef	Thịt bò
+Beer	Bia
+Bitte	Đắng
+Boil	Luộc, đun sôi
+Bread	Bánh mì
+Chicken	Thịt gà
+Coffee	Cà phê
+Delicious	Ngon lành
+Drink	Uống
+Eat	Ăn
+Fast	Đồ ăn nhanh
+Fresh	Tươi sống, tươi ngon
+Fruit	Trái cây
+Fry	Chiên rán
+Grill	Nướng
+Herb	Thảo mộc
+Juice	Nước ép
+Liquor	Rượu mạnh
+Meat	Thịt
+Milk	Sữa
+Pork	Thịt lợn
+Rice	Cơm
+Salty	Mặn
+Sauce	Nước sốt
+Seafood	Hải sản
+Snack	Món ăn nhẹ
+Soup	Món súp, món canh
+Sour	Chua
+Spice	Gia vị
+Spicy	Cay
+Steam	Hấp
+Stir-	Xào
+Sweet	Ngọt
+Tasty	Ngon lành
+Tea	Trà
+Vegetable	Rau củ
+Wine	Rượu vang
+Antique	cửa hàng đồ cổ
+Antique	Cửa hàng đồ cổ
+Apartment	Căn hộ
+Architecture	Kiến trúc
+Baker	Hiệu bánh
+Bakery	cửa hàng bánh ngọt
+Barbers	Hiệu cắt tóc
+Barbershop	hiệu cắt tóc nam
+Beauty	tiệm làm đẹp
+Beauty	Cửa hàng làm đẹp
+Bedroom	Phòng ngủ
+Big-box	cửa hàng tạp hóa (general store)
+Book	câu lạc bộ sách 
+Bookshop	hiệu sách
+Bookstall	cửa hàng sách (quy mô rất nhỏ và bán nhiều loại tạp chí)
+Booth	quán cóc, bốt điện thoại
+Bottle	cửa hàng bán rượu bia
+Boutique	cửa hàng nhỏ bán quần áo, giày dép, …
+Bucket	đại lý vé máy bay giá rẻ, hoặc tổ chức dịch vụ du lịch giá r
+Build	Xây dựng
+Builders’	cửa hàng vật liệu xây dựng
+Building	Tòa nhà cao tầng
+Butcher	cửa hàng bán thịt
+Butchers	Cửa hàng bán thịt
+Café	quán cà phê
+Cash-and-carry	cửa hàng bán buôn
+Chain	chuỗi cửa hàng
+Charity	cửa hàng bán đô từ thiện
+Chemists	Cửa hàng thuốc
+Chip	cửa hàng bán đồ ăn mang đi (thường là khoai tây chiên, cá chiên…)
+Clothes	Cửa hàng quần áo
+Commissary	cửa hàng của nhà nước phục vụ cho các đối tượng đặc biệt
+Construct	Thi công, xây dựng
+Convenience	cửa hàng tiện ích
+Corner	cửa hàng nhỏ bán đồ ăn và những thứ lặt vặt
+Corner	Cửa hàng góc phố (tạp hoá)
+Delicatessen	cửa hàng bán đồ ăn ngon (thường nhập khẩu từ nước ngoài)
+Department	trung tâm thương mại cao cấp
+Dime	cửa hàng bán đồ rẻ tiền
+Door	Cánh cửa
+Dress	Cửa hàng quần áo
+Dry	Cửa hàng giặt khô
+Duty-free	cửa hàng bán đồ miễn thuế
+Electrical	Cửa hàng đồ điện
+Elevator	Thang máy
+Filling	cửa hàng xăng dầu (petrol station)
+Flea	 Chợ trời
+Floor	(1) Tầng; (2) Sàn nhà
+Flower	cửa hàng hoa
+Garage	cửa hàng sửa chữa và bán xe ô t
+Garden	nơi bán các loại hạt giống, cây trồng
+Garden	Khu vườn
+Gift	cửa hàng bán đồ lưu niệm
+Greengrocers	Cửa hàng rau quả
+Haberdashery	cửa hàng bán đồ kim chỉ, các dụng cụ may mặc
+Hairdressers	Cửa hàng uốn tóc
+Hardware	cửa hàng bán các vật dụng kim loại (ironmonger’s)
+Hardware	Cửa hàng dụng cụ
+House	Ngôi nhà
+Hypermarket	siêu thị lớn (megastore)
+Junk	cửa hàng bán đồ cũ
+Kitchen	Phòng bếp
+Laundry	cửa hàng giặt ủi
+Liquor	quán bán rượu bia mang đi không phục vụ tại quán)
+Living	Phòng khách
+Market	Chợ
+Newsagents	Quầy bán quần áo
+Newsstand	sạp báo (paper shop)
+Optician	Hiệu kính mắt
+Outfitter	quầy bán đồ dã ngoại (quần áo, trại…)
+Perfumery	cửa hàng bán nước hoa
+Pharmacy	hiệu thuốc
+Rapery	cửa hàng đồ may mặc
+Real	Bất động sản
+Roof	Mái nhà
+Service	cửa hàng bán đồ phụ tùng
+Service	cửa hàng bán xăng, dầu
+Shoe	Cửa hàng sửa chữa giầy dép
+Shoe	Cửa hàng giầy
+Skyscraper	Nhà chọc trời
+Sports	 Cửa hàng đồ thể thao
+Stair	Cầu thang
+Stationers	Cửa hàng văn phòng phẩm
+Stationery	cửa hàng văn phòng phẩm
+Supermarket	siêu thị
+Sweet	cửa hàng bánh kẹo
+Tailors	Hàng may
+Tattoo	Hàng xăm
+Tea	Quán trà
+Tower	Tòa tháp
+Toy	Cửa hàng đồ chơi
+Villa	Biệt thự
+Yard	Sân
+Air	Điều hòa
+Armchair	Ghế có chỗ hai bên để tay
+Bariermatting	Thảm chùi chân ở cửa
+Bath	Bồn tắm
+Bed	Giường thông thường
+Bedside	Bàn bên cạnh giường
+Bench	Ghế dài, ghế ngồi ở nghị viện, quan tòa
+Bookcase	Tủ sách
+Carpet	Thảm thông thường
+Chair	Ghế thông thường
+Chandelier	Đèn chùm, đèn treo nhiều ngọn
+Chest	Tủ ngăn kéo
+Chest	tủ, két
+Closet	tủ âm tường
+Coat	Móc treo quần áo
+Coffee	Bàn uống nước, bàn cà phê
+Couch	Ghế dài giống như giường, ghế trường kỷ
+Curtain	Rèm, màn
+Cushion	Đệm
+Desk	Bàn thông thường
+Double	Giường đôi
+Dresser	Tủ thấp có nhiều ngăn kéo (Anh-Anh )
+Dressing	Bàn trang điểm
+Drinks	Tủ đựng giấy tờ công việc
+Electric	Lò sưởi hoạt động bằng điện
+Ensuite	Buồng tắm trong phòng ngủ
+Fireplace	Lò sưởi
+Fridge	Cái tủ lạnh
+Gas	Lò sưởi hoạt động bằng ga
+Heater	Bình nóng lạnh
+Hoover	Máy hút bụi
+Internet	Mạng Internet
+Locker	tủ nhiều ngăn, có khóa mỗi ngăn
+Ottoman	Ghế dài có đệm
+Poster	Bức ảnh lớn trong nhà
+Radiator	Tủ đựng bát đũa
+Reading	Đèn học
+Recliner	Ghế đệm thông minh,để thư giãn,có thể điều chỉnh phần gác chân
+Rocking	ghế lật đật
+Shower	Vòi hoa sen
+Side	 Tủ ly
+Side	Bàn để sát tường
+Single	Giường đơn
+Sink	bồn rửa
+Sofa	Giường sofa
+Sofa	Ghế tràng kỷ, ghế xô pha
+Spin	Máy sấy quần áo
+Standing	Đèn để bàn
+Stool	Ghế đẩu
+Television	Tivi
+Wall	Đèn tường
+Wardrobe	Tủ đựng quần áo
+Window	rèm cửa sổ
+Aerobics	thể dục thẩm mỹ/thể dục nhịp điệu
+American	bóng bầu dục
+Archery	bắn cung
+Athlete	Vận động viên
+Athletics	điền kinh
+Badminton	cầu lông
+Badminton	Môn cầu lông
+Baseball	Bóng chày
+Baseball	bóng chày
+Basketball	bóng rổ
+Basketball	Bóng rổ
+Beach	bóng chuyền bãi biển
+Beat	Đánh bại
+Bowls	trò ném bóng gỗ
+Boxing	đấm bốc
+Canoeing	chèo thuyền ca-nô
+Champion	Nhà vô địch
+Climbing	leo núi
+Coach	Huấn luyện viên
+Competition	Cuộc thi
+Competition	cuộc thi đấu
+Cricket	crikê
+Cycling	đua xe đạp
+Darts	trò ném phi tiêu
+Defeat	đánh bại/thua trận
+Diving	lặn
+Fishing	câu cá
+Fixture	cuộc thi đấu
+Football	bóng đá
+Football	Môn bóng đá
+Game	Trận đấu, ván đấu (thường dùng cho các môn với các cầu thủ không chuyên)
+Golf	đánh gôn
+Gymnastics	tập thể hình
+Handball	bóng ném
+Hiking	đi bộ đường dài
+Hockey	khúc côn cầu
+Horse	đua ngựa
+Horse	cưỡi ngựa
+Hunting	đi săn
+Ice	khúc côn cầu trên sân băng
+Ice	trượt băng
+Inline	trượt pa-tanh
+Jogging	chạy bộ
+Jogging	Chạy bộ
+Judo	võ judo
+Karate	võ karate
+Karting	đua xe kart (ô tô nhỏ không mui)
+Kickboxing	võ đối kháng
+Lacrosse	bóng vợt
+Martial	võ thuật
+Match	Trận đấu (dùng cho bóng đá, bóng bầu dục, cầu lông,… có 2 cầu thủ/2 đội
+Motor	đua ô tô
+Mountaineering	leo núi
+Net	lưới
+Netball	bóng rổ nữ
+Offside	việt vị
+Opponent	Đối thủ
+Pass	chuyền bóng
+Penalty	phạt đền
+Player	cầu thủ
+Pool	bi-a
+Practice	Luyện tập
+Referee	Trọng tài
+Rowing	chèo thuyền
+Rugby	bóng bầu dục
+Running	chạy đua
+Running	Chạy bộ
+Sailing	chèo thuyền
+Score	Điểm số
+Scuba	lặn có bình khí
+Shooting	bắn súng
+Skateboarding	trượt ván
+Skiing	trượt tuyết
+Snooker	bi-a
+Snowboarding	trượt tuyết ván
+Sporty	Có tính chất thể thao
+Squash	bóng quần
+Stadium	Sân vận động
+Surfing	lướt sóng
+Swimming	bơi lội
+Swimming	Môn bơi lội
+Table	bóng bàn
+Team	Đội
+Tennis	Môn quần vợt
+Ten-pin	bowling
+Tournament	Giải đấu
+Volleyball	Bóng chuyền
+Volleyball	bóng chuyền
+Walking	đi bộ
+Water	bóng nước
+Water	lướt ván nước do tàu kéo
+Weightlifting	cử tạ
+Windsurfing	lướt ván buồm
+Wrestling	môn đấu vật
+Airplane	Máy bay
+Airport	Sân bay
+Arrival	Sự tới nơi, sự cập bến
+Bike	Xe đạp
+Boat	Thuyền
+Bus	Trạm dừng xe buýt
+Bus	Xe buýt
+Car	Xe ô tô
+Delay	Chậm trễ, trì hoãn (chuyến bay)
+Departure	Sự rời đi
+Drive	Lái xe
+Get	Lên xe/Xuống xe
+Motorbike	Xe máy
+Passenger	Hành khách
+Public	Phương tiện giao thông công cộng
+Ride	Lái xe máy, cưỡi ngựa
+Road	Con đường
+Rush	Giờ cao điểm
+Ship	Tàu thủy
+Station	Ga (tàu)
+Subway	Tàu điện ngầm
+Taxi	Xe taxi
+Traffic	Tắc đường, ùn tắc giao thông
+Traffic	Giao thông
+Train	Tàu hỏa
+Transport	Chuyên chở, vận tải
+Blender	Máy xay sinh tố
+Bowl	Bát, tô
+Breakfast	Bữa sáng
+Chopstick	Đũa
+Cup	Tách, chén
+Cupboard	Tủ bếp, tủ chạn
+Cutting	Thớt
+Dinner	Bữa tối
+Dish	(1) Cái đĩa; (2) Món ăn
+Dishwasher	Máy rửa bát
+Fire	Lửa
+Fork	Cái dĩa
+Glass	Cái ly
+Heat	Hơi nóng, sức nóng
+Knife	Con dao
+Lunch	Bữa trưa
+Microwave	Lò vi sóng
+Napkin	Khăn ăn, giấy ăn
+Oven	Lò nướng
+Pan	Cái chảo
+Pot	Nồi
+Sink	Chậu rửa
+Spoon	Cái thìa
+Stove	Bếp ga, bếp lò
+Air	Máy điều hòa không khí
+Armchair	Ghế bành
+Bookshelf	Giá sách, kệ sách
+Carpet	Thảm
+Chair	Ghế tựa
+Clock	Đồng hồ treo tường/để bàn
+Curtain	Rèm cửa
+Cushion	Gối tựa (trên ghế sofa)
+Desk	Bàn làm việc
+Fan	Cái quạt
+Lamp	Đèn bàn
+Picture	Bức tranh/ảnh
+Remote	Điều khiển từ xa
+Sofa	ghế sofa
+Table	Cái bàn
+Television	Cái tivi
+Vase	Bình hoa, lọ hoa
+Bed	Cái giường
+Blanket	Cái chăn
+Closet	Tủ quần áo
+Comfortable	Thoải mái, dễ chịu
+Drawer	Ngăn kéo
+Dressing	Bàn trang điểm
+Mattress	Cái đệm
+Mirror	Cái gương
+Pillow	Cái gối
+Rest	Nghỉ ngơi
+Sleep	Giấc ngủ
+Wardrobe	Tủ quần áo
+Bathtub	Bồn tắm
+Comb	chải tóc
+Conditioner	Dầu xả
+Detergent	Chất tẩy rửa, bột giặt
+Faucet	Vòi nước
+Hair	Máy sấy tóc
+Hairbrush	Lược chải tóc
+Hanger	Mắc quần áo
+Laundry	Quần áo cần giặt, tiệm giặt là
+Mop	Lau nhà
+Razor	Dao cạo râu
+Scissor	Cái kéo
+Shampoo	Dầu gội đầu
+Shave	Cạo râu, cạo lông
+Shower	Buồng tắm đứng
+Soap	Xà phòng
+Toilet	Nhà vệ sinh
+Toilet	Giấy vệ sinh
+Toothbrush	Bàn chải đánh răng
+Toothpaste	Kem đánh răng
+Towel	khăn tắm
+Trash	Thùng rác
+Washing	Máy giặt
+Bakery	Tiệm bánh
+Bank	Ngân hàng
+Bar	quán bar
+Bus	Trạm dừng xe buýt
+Café	Quán cà phê
+Citizen	Cư dân thành phố, công dân
+City	Tòa thị chính
+Court	Tòa án
+Dwell	Cư trú, ở tại
+Gas	Trạm xăng
+Grocery	Cửa hàng tạp hóa
+Hotel	Khách sạn
+Library	Thư viện
+Movie	Rạp chiếu phim
+Museum	Bảo tàng
+Park	Đỗ (xe)
+Parking	Bãi đỗ xe
+Police	Đồn cảnh sát
+Post	Bưu điện
+Restaurant	Nhà hàng
+Road	Con đường
+Shopping	Trung tâm thương mại
+Store	Cửa hàng
+Street	Phố
+Supermarket	Siêu thị
+Biology	Sinh học
+Calculator	Máy tính cầm tay
+Chemistry	Hóa học
+Class	Lớp học
+College	Trường cao đẳng
+Computer	Tin học
+Computer	Máy tính
+Degree	Bằng
+Eraser	Cục tẩy
+Exam	Bài thi
+Final	Bài thi cuối kì
+Geography	Địa lý
+Graduate	Tốt nghiệp
+High	Trường trung học phổ thông
+History	Môn lịch sử, lịch sử
+Kindergarten	Trường mầm non, mẫu giáo
+Laboratory	Phòng thí nghiệm
+Learn	Học hỏi
+Lecture	Bài giảng
+Lecturer	Giảng viên
+Literature	Văn học
+Mathematics	Toán học
+Mid-term	Bài thi giữa kì
+Notebook	Quyển vở, quyển sổ
+Pen	Bút mực, bút bi 
+Pencil	Bút chì
+Period	Tiết học
+Physical	Môn thể dục
+Physics	Môn vật lí
+Primary	Trường tiểu học
+Principal	Hiệu trưởng
+Professor	Giáo sư
+Ruler	Thước kẻ
+School	Năm học
+School	Trường học
+Secondary	Trường trung học cơ sở
+Semester	Học kì
+Student	Học sinh, sinh viên
+Study	Học tập
+Subject	Môn học
+Teacher	Giáo viên
+Test	Bài kiểm tra
+Textbook	Sách giáo khoa
+Uniform	Đồng phục
+University	Trường đại học
+Ache	Đau
+Backache	Đau lưng
+Bandage	Băng cá nhân
+Bleed	Chảy máu
+Broken	Gãy tay
+Broken	Gãy chân
+Broken	Gãy
+Bruise	Vết bầm tím
+Clinic	Phòng khám
+Cold	Cảm lạnh
+Cure	Cách chữa trị
+Diet	Chế độ ăn uống, ăn kiêng
+Disease	Căn bệnh
+Disorder	Chứng rối loạn
+Dizzy	Hoa mắt chóng mặt
+Doctor	Bác sĩ
+Fever	Cơn sốt
+Flu	Bệnh cảm cúm
+Hea	Chữa lành, lành lại
+Headache	Đau đầu
+Healthy	Lành mạnh, tốt cho sức khỏe
+Hospital	Bệnh viện
+Ill	Bị ốm
+Illness	Căn bệnh
+Medicine	Thuốc
+Nurse	Y tá
+Obesity	Bệnh béo phì
+Patient	Bệnh nhân
+Pharmacy	Nhà thuốc
+Pill	Viên thuốc
+Sick	Bị ốm
+Stomach	Đau bụng, đau dạ dày
+Surgery	Ca phẫu thuật
+Toothache	Đau răng
+Wound	Vết thương
+Activity	Hoạt động
+Baking	Nướng bánh
+Ballet	Múa ba lê
+Chess	Cờ vua
+Collect	Sưu tầm, thu thập
+Cook	Nấu nướng
+Dance	Nhảy
+Dance	Nhảy múa
+Fishing	Câu cá
+Gardening	Làm vườn
+Gardening	Làm vườn
+Go	Đi dạo
+Go	Đi dự tiệc
+Go	Đi mua sắm
+Go	Đi bơi
+Go	Đi tập thể hình
+Go	Đến quán bia, rượu
+Hang	Đi chơi với bạn
+Hobby	Sở thích
+Jogging	Chạy bộ
+Knitting	Đan len
+Leisure	Thời gian rảnh
+Listen	Nghe nhạc
+Listening	Nghe nhạc
+Mountaineering	Đi leo núi
+Musical	Nhạc cụ
+Play	Chơi thể thao
+Read	Đọc sách
+Reading	Đọc sách
+Relax	Thư giãn
+Sewing	May vá
+Sing	Hát
+Sleep	Ngủ
+Surf	Lướt net
+Take	Chụp ảnh
+Travel	Du lịch
+Watching	Xem TV/phim
+Afford	Có khả năng chi trả
+Affordable	Giá cả hợp lí, phải chăng
+Aisle	lối đi giữa các dãy hàng
+Bargain	Trả giá, mặc cả
+Basket	cái rổ, cái giỏ, cái thúng
+Basket	Giỏ hàng
+Bookstore	Hiệu sách
+Cart	Xe đẩy trong siêu thị
+Cash	tiền mặt
+Cashier	nhân viên thu ngân
+Cashier	Nhân viên thu ngân
+Cheap	Rẻ
+Clerk	Nhân viên bán hàng
+Clothing	Cửa hàng quần áo, thời trang
+Complain	Phàn nàn
+Complaint	lời phàn nàn
+Convenience	Cửa hàng tiện lợi
+Counter	quầy
+Credit	thẻ tín dụng
+Credit	Thẻ tín dụng
+Customer	Khách hàng
+Discount	Ưu đãi, giảm giá
+Discount	chiết khấu
+Expensive	Đắt đỏ
+Fitting	phòng thay đồ
+In	còn hàng
+Mall	Trung tâm thương mại
+Manager	quản lí cửa hàng
+Out	hết hàng
+Out	Hết hàng, cháy hàng
+Price	Giá cả
+Price	giá
+Purse	ví phụ nữ
+Queue	xếp hàng
+Receipt	giấy biên nhận
+Receipt	Hóa đơn
+Refund	hoàn tiền
+Refund	sự hoàn tiền
+Sale	giảm giá
+Salon	salon làm đẹp
+Shelf	kệ, ngăn, giá
+Shop	nhân viên bán hàng
+Shop	cửa kính trưng bày hàng
+Shop	Cửa hàng
+Shopping	túi mua hàng
+Shopping	danh sách các món đồ cần mua
+Special	ưu đãi đặc biệt
+Stock	Hàng hóa trong kho
+Stockroom	kho chứa hàng
+Store	Cửa hàng
+To	mua
+To	đi mua sắm
+To	đặt hàng
+To	bán
+Trolley	xe đẩy hàng
+Wallet	ví tiền
+Wallet	Ví
+Accommodation	Chỗ ở, điều kiện ăn ở
+Adventure	Cuộc khám phá
+Attraction	Sự hấp dẫn, thu hút
+Backpack	Ba lô
+Coach	xe buýt chạy đường dài
+Cruise	chuyến đi (bằng tàu thuỷ)
+Custom	Phong tục tập quán
+Destination	điểm đến
+Destination	Điểm đến
+Explore	Khám phá
+Ferry	phà; bến phà
+Flight	Tiếp viên hàng không
+Flight	Chuyến bay
+Harbour	bến tàu, cảng
+Journey	Hành trình
+Map	Bản đồ
+Memorable	Đáng nhớ
+Memory	Kỉ niệm
+Passport	hộ chiếu
+Passport	Hộ chiếu
+Platform	Thềm ga, sân ga (xe lửa), bậc lên xuống (xe búyt)
+Public	phương tiện giao thông công cộng
+Resort	nơi nghỉ, khu nghỉ dưỡng
+Sightseeing	Tham quan
+Souvenir	Quà lưu niệm
+Suitcase	Va li
+Ticket	Vé (máy bay, tàu hỏa,…)
+Tour	Hướng dẫn viên du lịch
+Tour	Chuyến du lịch
+Tourist	Khách du lịch
+Travel	Đi du lịch
+Trip	Chuyến đi
+Vacation	Kì nghỉ
+A	xe ba bánh
+Ambulance	xe cứu thương
+Bicycle	xe đạp
+Bulldozer	xe ủi
+Bus	xe buýt
+Camel	lạc là
+Canoe	xuồng
+Car	xe hơi
+Caravan	nhà lưu động
+Cargo	tàu chở hàng
+Concrete	xe trộn bê tông
+Crane	xe cần cẩu
+Cruise	tàu du lịch
+Donkey	con lừa
+Dump	xe chở cát
+Ferry	phà
+Fire	xe cứu hỏa
+Helicopter	máy bay trực thăng
+Horse	ngựa
+Horse-drawn	xe ngựa kéo
+Hot-air	khinh khí cầu
+Jet	máy bay phản lực
+Litter	cái kiệu
+Motor	xuồng máy
+Motorbike	xe máy
+Ox	xe bò
+Propeller	máy bay xài động cơ cánh quạt
+Rocket	tên lửa
+Sailboat	thuyền buồm
+Scooter	xe tay ga
+Snow	xe ủi tuyết
+Snow	ván trượt tuyết
+Submarine	tàu ngầm
+Tank	xe bồn (chở chất lỏng)
+Train	xe lửa
+Tram	tàu điện trên mặt đất
+Truck	xe tải
+Vietnamese	xe xích lô
+Wheelchair	xe lăn
+Afternoon	Buổi chiều
+April	Tháng Tư
+August	Tháng Tám
+Calendar	Lịch
+Century	Thế kỉ
+Date	Ngày (thường chỉ ngày trong tháng)
+Day	Ngày (thường chỉ ngày trong tuần)
+Decade	Thập kỉ
+December	Tháng Mười hai
+Evening	Buổi tối
+Fall	Mùa thu
+February	Tháng Hai
+Frida	Thứ Sáu
+Hour	Giờ, tiếng
+January	Tháng Một
+July	Tháng Bảy
+June	Tháng Sáu
+March	Tháng Ba
+May	Tháng Năm
+Minute	Phút
+Monday	Thứ Hai
+Month	Tháng
+Morning	Buổi sáng
+Night	Buổi đêm
+Noon	Buổi trưa
+November	Tháng Mười một
+October	Tháng Mười
+Quarter	Quý
+Saturday	Thứ Bảy
+Season	Mùa
+Second	Giây
+September	Tháng Chín
+Spring	Mùa xuân
+Summer	Mùa hè
+Sunday	Chủ nhật
+Thursday	Thứ Năm
+Time	Thời gian
+Tuesday	Thứ Ba
+Watch	Đồng hồ đeo tay
+Wednesday	Thứ Tư
+Week	Tuần
+Winter	Mùa đông
+Year	Năm
+Adjective	Tính từ
+Advanced	Nâng cao
+Adverb	Trạng từ
+Apostrophe	dấu phẩy phía trên bên phải
+Beginner	Người mới bắt đầu
+Colon	hai chấm
+Comma	dấu phẩy
+Conversation	Cuộc trò chuyện
+Dash	dấu gạch ngang dài
+Dialogue	Cuộc hội thoại
+Dictionary	Từ điển
+Ellipsis	dấu ba chấm
+Exclamation	dấu chấm than
+Fluent	Trôi chảy
+Grammar	Ngữ pháp
+Hyphen	dấu gạch ngang
+Intermediate	Trung bình
+Language	Ngôn ngữ
+Listen	Nghe
+Native	Bản địa
+Noun	Danh từ
+Question	dấu chấm hỏi
+Read	Đọc
+Semicolon	dấu chấm phẩy
+Sentence	Câu văn
+Speak	Nói
+Verb	Động từ
+Vocabulary	Từ vựng
+Word	Từ ngữ
+Write	Viết
+Blessing	Phước lành
+Celebrate	Ăn mừng, chào mừng
+Christmas	Lễ Giáng sinh
+Decorate	Trang trí, trang hoàng
+Easter	Lễ Phục sinh
+Festival	Lễ hội
+Festive	Có tính chất, không khí lễ hội
+Holiday	Ngày lễ
+Independence	Lễ Quốc khánh
+Joy	Niềm vui sướng
+Lunar	Tết nguyên đán
+Mid-autumn	Tết Trung thu
+New	Giao thừa
+Present	Món quà
+Tradition	Truyền thống
+Wish	Ước
+Salt	muối
+Sugar	đường
+Pepper	tiêu
+MSG	bột ngọt
+Mustard	mù tạt
+Soy	nước tương
+Vinegar	dấm
+Accountant	Kế toán
+Boss	Sếp, cấp trên
+Capital	Vốn
+Company	Công ty
+Department	Phòng ban, bộ phận
+Director	Giám đốc
+Diversify	đa dạng hóa
+Dividend	Cổ tức
+Do	làm ăn với
+Downsize	cắt giảm nhân công
+Employ	Tuyển dụng
+Employee	Nhân viên
+Employer	Nhà tuyển dụng
+Enterprise	Doanh nghiệp
+Envelope	bao thư (nói chung)
+Establish	thành lập (công ty)
+File	hồ sơ, tài liệu
+Firm	Tập đoàn
+Franchise	nhượng quyền thương hiệu
+Go	phá sản
+Invest	Đầu tư
+Leader	Nhóm trưởng, Chỉ huy
+Loss	Lỗ, mất mát, thiếu hụt
+Manager	Trưởng phòng, quản lí
+Merge	sát nhập
+Notepad	giấy được đóng thành xấp, tập giấy
+Notebook	sổ ta
+Outsource	thuê gia công
+Paper	giấy
+Partner	Đối tác
+Product	Sản phẩm
+Profit	Lợi nhuận
+Revenue	Doanh thu
+Secretary	Thư ký
+Service	Dịch vụ
+Shareholder	Cổ đông
+Actor	Diễn viên nam/nữ
+Architect	Kiến trúc sư
+Baker	Thợ làm bánh
+Businessman	Doanh nhân
+Chef	Bếp trưởng
+Cleaner	Lao công, dọn dẹp
+Dentist	Nha sĩ
+Designer	Nhà thiết kế
+Engineer	Kỹ sư
+Farmer	Người nông dân
+Fireman	Lính cứu hỏa
+Fisherman	Ngư dân
+Florist	Người bán hoa
+Gardener	Người làm vườn
+Hairdresser	Thợ làm tóc, tiệm làm tóc
+Journalist	Phóng viên
+Judge	Thẩm phán
+Lawyer	Luật sư
+Mechanic	Thợ cơ khí
+Model	Người mẫu
+Pilot	Phi công
+Plumber	Thợ sửa ống nước
+Policeman	Cảnh sát
+Scientist	Nhà khoa học
+Security	Bảo vệ
+Soldier	Người lính
+Tailor	Thợ may
+Waiter	Bồi bàn (nam/nữ)
+Worker	Công nhân
+Achievement	Thành tựu, thành tích
+Apply	Ứng tuyển, áp dụng
+Colleague	Đồng nghiệp
+Contract	Hợp đồng
+Deadline	Hạn chót
+Experience	Kinh nghiệm, trải nghiệm
+Fire	Sa thải, đuổi việc
+Interview	Phỏng vấn
+Meeting	Cuộc họp
+Offer	Lời đề nghị
+Office	Văn phòng
+Position	Vị trí, chức vụ
+Promote	Đề bạt, thăng chức
+Punishment	Hình phạt
+Report	Bản báo cáo
+Resign	Từ chức, nghỉ việc
+Responsibility	Trách nhiệm
+Retire	Nghỉ hưu
+Reward	Thưởng (cho ai đó)
+Salary	Lương, tiền công
+Succeed	(đạt được) Thành công
+Successful	Thành công
+Task	Nhiệm vụ, đầu việc
+Teamwork	Làm việc nhóm
+Applaud	Vỗ tay, tán thưởng
+Art	Nghệ thuật
+Artist	Nghệ sĩ
+Artwork	Tác phẩm nghệ thuật
+Audience	Khán giả
+Author	Tác giả
+Band	Ban nhạc
+Brush	Cọ vẽ
+Camera	Máy ảnh
+Canvas	Vải bạt (để vẽ tranh sơn dầu)
+Choir	Dàn hợp xướng
+Clap	Vỗ tay, hoan hô
+Collection	Bộ sưu tập
+Composer	Nhà soạn nhạc
+Concert	Buổi trình diễn âm nhạc
+Creative	tính sáng tạo
+Culture	Văn hóa
+Design	Thiết kế
+Drawing	Bức vẽ
+Exhibition	Triển lãm
+Film	Bộ phim
+Gallery	Phòng triển lãm, trưng bày
+Illustration	Hình minh họa
+Image	Bức ảnh
+Inspiration	Nguồn cảm hứng
+Inspire	Truyền cảm hứng
+Literature	Văn học, văn chương
+Masterpiece	Kiệt tác
+Model	Mẫu (vẽ), người mẫu
+Movie	Bộ phim
+Music	Âm nhạc
+Musical	Nhạc cụ
+Novel	Tiểu thuyết
+Painting	Bức vẽ, bức tranh
+Paper	Tờ giấy
+Pattern	Họa tiết
+Performance	Tiết mục, buổi trình diễn, phần thể hiện
+Photo	Bức ảnh
+Photographer	Nhiếp ảnh gia
+Poem	Bài thơ
+Poet	Nhà thơ, thi sĩ
+Poetry	Thơ ca
+Portrait	Tranh chân dung
+Pottery	Đồ gốm, nghệ thuật làm gốm
+Sculpture	Bức tượng điêu khắc
+Show	Buổi biểu diễn
+Singer	Ca sĩ
+Sketch	viết//vẽ nháp
+Song	Bài hát, ca khúc
+Story	Câu chuyện
+Studio	Xưởng (vẽ, làm phim, chụp ảnh,…)
+Theater	Nhà hát
+Video	Đoạn phim
+Access	Truy cập
+Application	Ứng dụng (điện thoại di động)
+Blog	Nhật ký trực tuyến
+Browser	Trình duyệt
+cable	dây
+Click	Nhấp chuột
+Computer	Máy tính để bàn
+Connection	Kết nối
+Data	Dữ liệu
+Delete	Xóa bỏ
+desktop	máy tính bàn
+Download	Tải xuống
+Ebook	Sách điện tử
+E-mail	thư điện tử
+Error	Lỗi
+Hardware	Phần cứng
+Headphone	Tai nghe
+Install	Cài đặt, lắp đặt
+Internet	Mạng internet
+Keyboard	Bàn phím máy tính
+keyboard	bàn phím
+Laptop	Máy tính xách tay
+laptop	máy tính xách tay
+Link	Đường dẫn
+Log	Đăng nhập
+monitor	phần màn hình
+Mouse	Chuột máy tính
+mouse	chuột
+Password	Mật khẩu
+PC	máy tính cá nhân
+power	cáp nguồn
+Printer	Máy in
+printer	máy in
+Program	Chương trình (máy tính)
+screen	màn hình
+Sign	Đăng kí
+Smartphone	Điện thoại thông minh
+Social	Mạng xã hội
+Software	Phần mềm
+Speaker	Loa
+speakers	loa
+Surf	Lướt (web)
+System	Hệ thống
+Tablet	Máy tính bảng
+Virus	vi rút
+Website	Trang web
+Wifi	mạng wifi
+Wireless	Không dây
+Answer	Câu trả lời
+Answerphone	Máy trả lời tự động
+Area	Mã vùng
+Battery	Pin
+Business	Cuộc gọi công việc
+Call	Cuộc gọi
+Call	Cây gọi điện thoại
+Cellphone	Điện thoại di động
+Communicate	Giao tiếp
+Contact	Địa chỉ liên hệ
+Cordless	Điện thoại không dây
+Country	Mã nước
+Dialling	Tín hiệu gọi
+Directory	Tổng đài báo số điện thoại
+Engaged	Máy bận
+Ex-directory	Số điện thoại không có trong danh bạ
+Extension	Số máy lẻ
+Fault	Lỗi
+Fax	Bản fax
+Hotline	Đường dây nóng
+Interference	Nhiễu tín hiệu
+Message	Tin nhắn
+Message	Gửi tin nhắn
+Missed	Cuộc gọi nhỡ
+Missed	Lỡ, nhỡ
+Mobile	Điện thoại di động
+Mobile	Sạc điện thoại di động
+Off	Máy kênh
+Operator	Người trực tổng đài
+Outside	Kết nối với số bên ngoài công ty
+Personal	Cuộc gọi cá nhân
+Phone	Danh bạ
+Phone	Cây gọi điện thoại
+Phone	Thẻ điện thoại
+Phone	Số điện thoại
+Receive	Nhận được
+Receiver	Ống nghe
+Ring	Cuộc gọi
+Ringtone	Nhạc chuông
+Send	Gửi đi
+Signal	Tín hiệu
+Signature	Chữ ký
+Smartphone	Điện thoại thông minh
+Stamp	Con tem
+Switchboard	Tổng đài
+Telephone	Điện thoại
+Telephone	Số điện thoại
+Telephone	Điện thoại để bàn
+Text	Tin nhắn văn bản
+Text	Tin nhắn
+To	Bị cắt tín hiệu
+To	Gọi điện
+To	Gọi lại cho ai
+To	Quay số
+To	Dập máy
+To	Để lại tin nhắn
+To	Bật loa
+To	Gọi điện
+To	Gửi tin nhắn
+To	Nhắn tin
+Wrong	Nhầm số
+Advertisement	Quảng cáo
+Article	Bài báo
+Broadcast	Chương trình phát sóng
+Cable	Dây cáp
+Channel	Kênh truyền hình
+Character	Nhân vật
+Column	Chuyên mục
+Commercial	Tính chất thương mại
+Daily	Có tính chất hàng ngày
+Editor	Biên tập viên
+Episode	Tập (phim)
+Headline	Tiêu đề
+Issue	Số, kì phát hành (báo)
+Live	Truyền hình trực tiếp
+Magazine	Tạp chí
+Monthly	Hàng tháng
+Newspaper	Báo giấy
+Press	Truyền thông, báo chí
+Publisher	Nhà xuất bản
+Reporter	Phóng viên
+Script	Kịch bản
+Subtitle	Phụ đề
+TV	Phim truyền hình
+TV	Chương trình truyền hình
+TV	Đài truyền hình
+Weekly	Hàng tuần
+Area	Diện tích
+Centimeter	Cen ti mét
+Distance	Khoảng cách
+Estimate	Ước lượng, dự đoán
+Gram	Gam
+Hectare	Hecta
+Height	Chiều cao
+Kilo	Kilogram, cân
+Kilometer	Ki lô mét
+Length	Chiều dài
+Liter	Lít
+Measure	Đo đạc
+Meter	Mét
+Mile	Dặm
+Ruler	Thước kẻ
+Unit	Đơn vị
+Weight	Cân nặng, khối lượng
+Width	Chiều rộng
+Fast	Nhanh
+Hasty	Vội vàng, nhanh chóng
+Hurry	Thúc giục, làm vội vàng
+Pace	Nhịp độ
+Prompt	Thúc đẩy
+Quick	Nhanh, mau
+Quicken	Làm tăng nhanh, đẩy mạnh
+Rapid	Nhanh chóng, mau lẹ
+Run	Chạy
+Rush	Vội vã thực hiện
+Slow	Chậm chạp
+Speed	Tốc độ
+Sprint	Chạy nhanh, chạy nước rút
+Swift	Mau, nhanh
+Velocity	Vận tốc
+Walk	Đi bộ, đi dạo
+Always	Luôn luôn
+Frequently	Thường xuyên
+Never	Không bao giờ
+Occasionally	Thi thoảng
+Often	Thường
+Rarely	Hiếm khi
+Sometimes	Đôi lúc
+Usually	Thông thường
+Absolutely	Tuyệt đối, hoàn toàn
+Actually	Thực ra, thực sự
+Almost	Gần như, hầu như
+Barely	Chỉ vừa đủ, gần như là không
+Completely	Hoàn toàn
+Enough	Đủ
+Entirely	Hoàn toàn, trọn vẹn
+Highly	Rất, hết sức, ở mức độ cao
+Just	Chỉ
+Nearly	Gần như, suýt
+Only	Duy nhất, chỉ một
+Perfectly	Một cách hoàn hảo
+Pretty	Khá là
+Quite	Khá là
+Rather	Phần nào, hơi, khá là
+Really	Thật sự
+Remarkably	Đặc biệt, phi thường
+Slightly	Hơi hơi, một chút
+Terribly	Tồi tệ, kinh khủng
+Too	Quá, rất, cũng
+Totally	Hoàn toàn
+Very	Rất
+Above	Phía trên
+Across	Đối diện (với cái gì)
+Along	Dọc theo
+Among	Ở giữa (3 vật thể trở lên)
+Around	Xung quanh
+At	Tại
+Behind	Phía sau
+Below	Bên dưới
+Between	Nằm giữa (2 vật)
+In	Trong
+In	Phía trước
+Inside	Phía trong
+Near	Gần với
+Next	Bên cạnh
+On	Trên
+Opposite	Đối diện
+Outside	Bên ngoài
+Over	Phía trên
+Towards	Về phía, hướng về
+Under	Phía dưới
+Up	Lên, ở trên
+Decline	Sự sụt giảm
+Decrease	Sự giảm sút
+Diminish	Giảm sút
+Drop	Sự sụt giảm
+Grow	Phát triển, tăng trưởng
+Increase	Sự tăng lên
+Lessen	Giảm bớt
+Raise	Sự tăng lên
+Reduce	Giảm
+Rise	Tăng lên
+Blusher	má hồng
+Blusher	phấn má hồng
+Bronzer	phấn tối màu để cắt mặt
+Brush	lược to, tròn
+Buff	bông đánh phấn
+Comb	lược nhỏ (lược 1 hàng)
+Concealer	kem che khuyết điểm
+Face	mặt nạ
+Foundation	kem nền
+Gel	dang gieo
+Highlighter	kem highlight
+Liquid	dạng lỏng, nước
+Moisturizer	kem dưỡng ẩm
+Pencil	dạng chì
+Powder	dạng phấn
+Powder	Phấn phủ
+Sheer	chất phấn trong, không nặng
+Skin	dung dịch săn da
+Bangle	vòng đeo (ở cổ tay hay cánh tay)
+Bracelet	vòng đeo tay
+Chain	chuỗi vòng cổ
+Charm	những vật trang trí nhỏ
+Charm	vòng đeo tay (gắn nhiều đồ trang trí nhỏ xung quanh
+Clasp	cái móc, cái gài
+Cufflink	khuy cài cổ tay áo (măng sét)
+Earrings	bông tai (hoa tai)
+Engagement	nhẫn đính hôn
+Hoop	vòng đeo Tai
+Medallion	mặt dây chuyền (tròn, bằng kim loại)
+Pearl	dây chuyền ngọc trai
+Pendant	mặt dây chuyền (bằng đá quý)
+Pin	cái ghim cài áo
+Signet	nhẫn có khắc hình phía trên
+Wedding	nhẫn cưới
+Able	có thể làm được điều gì đó
+Accurate	chính xác
+Actual	thực tế
+Additional	thêm vào
+Available	sẵn có
+Aware	nhận thức
+Basic	cơ bản
+Capable	có khả năng
+Competitive	cạnh tranh
+Critical	Quan trọng
+Cute	dễ thương
+Dangerous	Nguy hiểm
+Different	khác nhau
+Difficult	khó khăn
+Dramatic	ấn tượng
+Educational	giáo dục
+Efficient	hiệu quả
+Electrical	điện
+Electronic	điện tử
+Emotional	cảm xúc
+Entire	toàn bộ
+Environmental	môi trường
+Every	mỗi
+Expensive	đắt
+Federal	liên bang
+Financial	tài chính
+Foreign	nước ngoài
+Global	toàn cầu
+Happy	hạnh phúc
+Healthy	khỏe mạnh
+Helpful	hữu ích
+Historical	tính lịch sử
+Hot	nóng
+Huge	lớn
+Hungry	đói
+Immediate	ngay lập tức
+Important	Quan trọng
+Impossible	không thể
+Intelligent	thông minh
+Interesting	thú vị
+Known	được biết đến
+Large	lớn
+Legal	pháp lý
+Medical	y tế
+Mental	thuộc tinh thần
+Nice	đẹp
+Numerous	nhiều
+Old	cũ
+Political	chính trị
+Poor	người nghèo
+Popular	phổ biến
+Powerful	mạnh mẽ
+Practical	thực tế
+Pregnant	mang thai
+Psychological	tâm lý
+Rare	hiếm
+Recent	gần đây
+Relevant	có liên quan
+Responsible	chịu trách nhiệm
+Scared	sợ hãi
+Serious	nghiêm trọng
+Several	vài
+Severe	nghiêm trọng
+Significant	đáng kể
+Similar	tương tự
+Strong	mạnh mẽ
+Successful	thành công
+Sufficient	đủ
+Suitable	phù hợp
+Technical	kỹ thuật
+Traditional	truyền thống
+Typical	điển hình
+United	liên kết, hợp nhất
+Unusual	bất thường
+Used	được sử dụng
+Useful	hữu ích
+Various	khác nhau, không giống nhau
+Whose	có
+Willing	sẵn sàng
+Wonderful	tuyệt vời
+Backpack	ba lô
+Bag	cặp sách
+Ballpoint	bút bi
+Beaker	cốc bêse (dùng trong phòng thí nghiệm)
+Binder	bìa rời (báo, tạp chí)
+Book	vở
+Bookcase	giá để sách
+Board	bảng
+Blackboard	bảng đen
+Carbon	giấy than
+Calculator	máy tính cầm tay
+Clamp	cái kẹp
+Clock	đồng hồ treo tường
+Chair	cái ghế
+Chalk	phấn viết
+Coloured	bút chì màu
+Compass	com-pa
+Computer	máy tính bàn
+Crayon	bút màu sáp
+Cutter	dao rọc giấy
+Desk	bàn học
+Dictionary	từ điển
+Dossier	hồ sơ
+Draft	giấy nháp
+Duster	khăn lau bảng
+Eraser	cái tẩy
+Index	giấy ghi có dòng kẻ.
+Felt	bút dạ
+File	tập hồ sơ
+File	tủ đựng tài liệu
+Flash	thẻ ghi chú
+Funnel	Cái phễu (thường dùng trong phòng thí nghiệm)
+Globe	quả địa cầu
+Glue	Keo dán hồ
+Highlighter	bút đánh dấu màu
+Magnifying	Kính lúp
+Map	bản đồ
+Notebook	sổ ghi chép
+Paint	sơn, màu
+Paint	bút tô màu
+Palette	bảng màu
+Paper	giấy viết
+Paper	kẹp giấy
+Paper	dụng cụ kẹp giữ giấy
+Pen	bút mực
+Pencil	bút chì
+Pencil	hộp bút
+Pencil	gọt bút chì
+Pins	đinh ghim, kẹp
+Post-it	giấy nhớ
+Protractor	thước đo góc
+Ribbon	dải ruy-băng
+Ruler	thước kẻ
+Scissors	cái kéo
+Scotch	băng dính trong suốt
+Set	Ê-ke
+Stapler	dụng cụ dập ghim
+Staple	cái gỡ ghim bấm
+Stencil	giấy nến
+Tape	thước cuộn
+Test	ống thí nghiệm
+Textbook	sách giáo khoa
+Thumbtack	đinh ghim (kích thước ngắn)
+Watercolour	màu nước
+(cd)composer	nhà soạn nhạc
+Accordion	phong cầm, đàn xếp
+Audience	khán giả
+Bagpipe	kèn tú
+Bass	đàn ghi ta bass
+Bass	nhịp, phách
+Bassist	nhạc công guitar
+Blues	dòng nhạc du nhập sang Bắc Mỹ từ Tây Phi Châu
+Bolero	nhạc vàng, nhạc bolero
+Cassette	băng cát-xét
+Cassette	máy nghe băng
+Cello	hồ cầm
+Choral	hợp xướng, đồng ca
+Clarinet	kèn 
+Clarinet	kèn clarinet
+Clarinet	nhạc cổ điển
+Compact	đĩa thu âm 
+Concerto	bài nhạc hợp tấu
+Conductor	người chỉ huy dàn nhạc
+Country	dòng nhạc đồng quê
+Dance	nhạc dance, nhạc nhảy
+Drum	trống
+Drummer	tay trống
+Duet	song ca
+EDM	nhạc nhảy điện tử (electronic dance music)
+Flautist	người thổi sáo (ở Mỹ gọi là flutist)
+Flute	sáo
+Gong	cồng
+Guitar	ghi ta
+Hard	nhạc rock nặng
+Harmonica	kèn harmonica
+Harmony	hòa âm
+Harp	hạc cầm, đàn harp
+Headphones	tai nghe
+Hip	dòng nhạc hip hop
+Hymn	thánh ca
+Instrument	nhạc cụ
+Jazz	nhạc Jazz
+Jingle	điệu nhạc ngắn dễ nhớ
+Keyboard	nhạc cụ điện tử có bàn phím như piano điện, organ
+Lullaby	những bài hát 
+Mini	nhạc đám cưới
+Musician	nhạc sĩ
+National	Quốc Ca
+Note	nốt nhạc
+Opera	nhạc kịch
+Orchestra	dàn nhạc
+Organ	đàn organ
+Organist	nghệ sĩ organ
+Percussion	nhạc cụ chơi bằng dùi hoặc bàn ta
+Performer	người biểu diễn
+Pianist	nghệ sĩ dương cầm
+Piano	đàn piano
+Pop	nhạc po
+R&B	dòng nhạc Rhythm and Blues
+Rap	nhạc rap
+Rapper	người hát rap
+Recording	nhạc rock
+Mandolin	măng cầm
+Saxophone	kèn saxophone
+Saxophonist	ca sĩ 
+sing	hát
+Solo	độc diễn
+sonata	bản xô-nát, soạn cho piano hoặc piano và violin
+Song	bài hát
+soul	nhạc linh hồn, có nguồn gốc từ nhạc phúc âm và R&B
+Speaker	sân khấu 
+string	nhạc cụ có dây
+Symphony	bản giao hưởng
+Theme_song	nhạc nền cho phim
+Traditional_Vietnamese_musical	cải lương
+Trombonist	nhạc công kèn trôm-bôn
+Trumpeter	nghệ sĩ
+Trumpet	kèn trumpet
+Turntable	bàn quay đĩa hát
+Ukulele	đàn ukulele
+Viola	vĩ cầm lớn
+Violin	vĩ cầm
+Voice	giọng nói
+Walkman	máy nghe nhạc
+Xylophone	mộc cầm
+Ambarella	Quả cóc
+Apple	Táo
+Apricot	Mơ
+Avocado	Bơ
+Banana	Quả chuối
+Bell_fruit	Mận miền nam
+Cucumber	Dưa leo, dưa chuột
+Custard_apple	Quả na, mãng cầu ta (mãng cầu giống việt nam)
+Dragon_fruit	Thanh long
+Durian	Sầu riêng
+Granadilla	Chanh dây
+Grape	Nho
+Guava	Ổi
+Jackfruit	Mít
+Kumquat	Tắc
+Longan	Quả nhãn
+Lychee	Quả vải
+Mandarin	Quýt
+Mango	Xoài
+Mangosteen	Măng cụt
+Papaya	Đu đủ
+Peach	Đào
+Pear	Quả lê
+Persimmon	Quả hồng
+Pineapple	Quả thơm, quả dứa, khóm
+Plum	Mận Bắc
+Pomegranate	Lựu
+Pomelo	Quả bưởi
+Rambutan	Chôm chôm
+Sapodilla	Sa bô chê, hồng xiêm
+Soursop	Mãng cầu xiêm
+Star	Quả vú sữa.
+Star	uả khế
+Strawberry	Dâu tây
+Tamarind	Me
+Watermelon	Dưa hấu
+Asparagus	măng tây
+Bean	giá
+Broccoli	bông cải xanh
+Cauliflower	súp lơ
+peanut	Đậu phộng (lạc)
+Herb	cây cỏ nói chung
+Lettuce	rau xà lách
+Mint	rau xà lách
+Radish	củ cải
+Sesame	củ cải
+Spinach	cải bó xôi
+Turnip	củ cải
+Breeze	Gió nhẹ
+Celsius	Độ C
+Acid	mưa axit 
+Alternative	năng lượng thay thế 
+Atmosphere	khí quyển 
+Permission	sự bốc ra 
+Biodegradable	có thể phân hủy
+Biodiversity	sự đa dạng sinh học 
+Carbon	dấu chân các-bon 
+Catastrophe	thảm họa 
+Clean	dọn dẹp
+Climate	Khí hậu
+Climate	hiện tượng biến đổi khí hậu 
+Cloud	Mây
+Cloudy	Nhiều mây
+Conserve	bảo tồn
+Contaminated	làm bẩn 
+Creature	sinh vật 
+Degree	Độ
+Desertification	quá trình sa mạc hóa 
+Destroy	phá hủy 
+Destruction	sự phá hủy 
+Die	chết dần 
+Disappear	biến mất 
+Disposal	sự vứt bỏ 
+Drizzle	Mưa phùn
+Dry	khô cạn 
+Dull	Nhiều mây
+Dump	vứt bỏ 
+Dust	bụi bẩn 
+Earthquake	cơn động đất 
+Ecology	sinh thái học 
+Ecosystem	hệ sinh thái 
+Emit	bốc ra 
+Endangered	các loài 
+Environment	môi trường 
+Environment	thân thiện với môi trường
+Environmentalist	nhà môi trường học 
+Erode	xói mòn 
+Erosion	sự xói mòn 
+Exhaust	khí thải 
+Fahrenheit	Độ F
+Famine	nạn đói 
+Fertilizer	phân bón 
+Flood	Lũ
+Fog	Sương mù
+Foggy	Nhiều sương mù
+Fossil	nhiên liệu hóa thạch 
+Frost	Băng giá
+Frosty	Giá rét
+Global	hiện tượng ấm lên toàn cầu 
+Greenhouse	hiệu ứng nhà kính 
+Hail	Mưa đá
+Hailstone	Cục mưa đá
+Harmful	gây hại 
+Hazardous	nguy hiểm
+Heat	Đợt nóng
+Humid	Ẩm
+Humidity	Độ ẩm
+Hurricane	Cuồng phong
+c	Cuồng phong
+Ice	Băng, đá
+Icy	Đóng băng
+Industrial	chất thải công nghiệp 
+Leak	rò rỉ 
+Lightning	Chớp
+Man-made	nhân tạo
+Natural	tài nguyên thiên nhiên 
+Oil	sự cố tràn dầu 
+Organic	hữu cơ
+Overcast	U ám
+Ozone	tầng ôzôn 
+Pesticide	thuốc trừ sâu 
+Pollute	làm ô nhiễm 
+Polluted	bị ô nhiễm 
+Pollution	sự ô nhiễm 
+Preservation	sự bảo tồn 
+Protect	bảo vệ
+Purify	thanh lọc 
+Rain	Mưa
+Rainbow	Cầu vồng
+Raindrop	Hạt mưa
+Rainfall	Lượng mưa
+Rainforest	rừng nhiệt đới 
+Recycle	tái chế 
+Renewable	có thể phục hồi 
+Reusable	có thể tái sử dụng 
+Reuse	tái sử dụng
+Sea	mực nước biển 
+Sewage	nước thải 
+Sleet	Mưa tuyết
+Snow	Tuyết
+Snowflake	Bông tuyết
+Soil	đất 
+Solar	pin mặt trời 
+Solar	năng lượng mặt trời 
+Storm	Bão
+Stormy	Có bão
+Strong	Cơn gió mạnh
+Sun	Mặt trời
+Sunshine	Ánh nắng
+Sustainable	bền vững
+Temperature	Nhiệt độ
+Thermometer	Nhiệt kế
+Threaten	đe dọa 
+Thunder	Sấm
+Thunderstorm	Bão có sấm sét
+To	Đóng băng
+To	Tan
+To	Mưa
+To	Tuyết rơi
+To	Tan
+Tornado	Lốc xoáy
+Toxic	độc hại 
+Urbanization	quá trình đô thị hóa
+Weather	Dự báo thời tiết
+Wet	Ướt
+Wind	Gió
+Windy	Có gió
+Bright	màu xanh nước biển tươi.
+Attractive	quyến rũ, hấp dẫn
+Ankle	Mắt cá chân
+Arch	Lòng bàn chân
+Big	Ngón chân cái
+Blood	Máu
+Breast	Ngực (phụ nữ)
+Calf	Bắp chân
+Cheek	Má
+Chin	Cằm
+Elbow	Khuỷu tay
+Eyebrow	Lông mày
+Eyelash	Lông mi
+Foot	Bàn chân
+Hand	Bàn tay
+Heel	Gót chân
+Index	Ngón trỏ
+Jaw	Quai hàm
+Knee	Đầu gối
+Knuckle	Khớp, đốt ngón tay
+Little	Ngón út
+Middle	Ngón giữa
+Muscle	Cơ bắp
+Neck	Cổ
+Palm	Lòng bàn tay
+Ring	Ngón đeo nhẫn
+Shoulder	Vai
+Sweat	Mồ hôi
+Thigh	Bắp đùi
+Throat	Cổ họng
+Thumb	Ngón tay cái
+Toe	Ngón chân
+Toenail	Móng chân
+Tongue	lưỡi
+Wrist	Cổ tay
+Aggressive	Hung hăng, năng nổ
+Ambitious	Tham vọng
+Artful	Xảo quyệt, tinh ranh
+Bad-tempered	Nóng tính
+Boastful	Khoe khoang, khoác lác
+Boring	Nhàm chán, chán nản
+Bossy	Hống hách, hách dịch
+Brave	Dũng cảm, gan dạ
+Calm	Điềm tĩnh
+Careful	Cẩn thận, kỹ lưỡng
+Careless	Bất cẩn, cẩu thả
+Cautious	Thận trọng, cẩn thận
+Childish	Ngây ngô, trẻ con
+Clever	Khéo léo, thông minh, lanh lợi
+Cold	Lạnh lùng
+Competitive	Ganh đua, thích cạnh tranh
+Confident	Tự tin
+Considerate	Chu đáo, ân cần
+Courage	Can đảm, dũng cảm
+Courteous	Lịch thiệp, nhã nhặn
+Cowardly	Nhát gan, hèn nhát
+Creative	Sáng tạo
+Cruel	Độc ác, dữ tợn, tàn bạo, tàn nhẫn
+Curious	Tò mò, hiếu kỳ
+Decisive	Quyết đoán, kiên quyết
+Dependable	Đáng tin cậy
+Diligent	Siêng năng, cần cù
+Dynamic	Năng động, năng nổ, sôi nổi
+Emotional	Nhạy cảm, dễ xúc động
+Enthusiastic	Hăng hái, nhiệt tình
+Envious	Ganh tị, đố kỵ
+Faithful	Chung thủy, trung thành, trung thực
+Fawning	Nịnh hót, xu nịnh
+Frank	Thẳng thắng, ngay thẳng, bộc trực
+Friendly	Thân thiện
+Gentle	Dịu dàng, hòa nhã, hiền lành
+Gracious	Tử tế, hào hiệp, lịch thiệp
+Greedy	Tham lam
+Gruff	Thô lỗ, cộc cằn
+Hardworking	Chăm chỉ
+Haughty	Kiêu căng, kiêu kỳ, ngạo mạn
+Headstrong	Cứng đầu, bướng bỉnh
+Honest	Trung thực, chân thật, lương thiện
+Humble	Khiêm tốn, nhún nhường
+Humorous	Hài hước, hóm hỉnh, khôi hài
+Impolite	Vô lễ, bất lịch sự
+Industrious	Cần cù, chăm chỉ
+Insolent	Láo xược, xấc láo
+Intelligent	Thông minh, sáng dạ
+Jealous	Ghen ghét, ghen tị
+Kind	Tốt bụng, tử tế
+Lazy	Lười biếng
+Liberal	Rộng rãi, bao dung, hào phóng
+Lovely	Đáng yêu, yêu kiều, thú vị
+Loyal	Trung thành, trung nghĩa, trung kiên
+Malicious	Hiểm độc, hiểm ác
+Mature	Chín chắn, trưởng thành
+Mean	Keo kiệt, bủn xỉn
+Merciful	Nhân từ, khoan dung
+Mischievous	Tinh nghịch, láu lỉnh
+Naive	Ngây thơ, chất phác, thật thà
+Naughty	Nghịch ngợm, hư đốn
+Obedient	Ngoan ngoãn, vâng lời
+Observant	Tinh ý, hay quan sát
+Open-minded	Phóng khoáng, cởi mở
+Optimistic	Lạc quan, yêu đời
+Outgoing	Thân mật, dễ gần, thoải mái
+Passionate	Nồng nàn, nồng nhiệt, sôi nổi
+Patient	Kiên nhẫn, nhẫn nại, bền chí
+Pessimistic	Bi quan, chán đời
+Polite	Lịch sự, lễ phép, lịch thiệp
+Quiet	Trầm lặng, ít nói
+Rational	Minh mẫn, sáng suốt
+Reckless	Hấp tấp, liều lĩnh, táo bạo
+Responsible	Có trách nhiệm
+Romantic	Lãng mạn, mơ mộng
+Rude	Thô lỗ, hỗn láo, vô lễ, khiếm nhã, bất lịch sự
+Secretive	Kín đáo
+Selfish	Ích kỷ
+Sensitive	Nhạy cảm
+Serious	Nghiêm túc, nghiêm nghị
+Shy	Nhút nhát, rụt rè, bẽn lẽn
+Silly	Ngớ ngẩn, khờ khạo
+Sincere	Thành thật, chân thành, chân thật, thẳng thắng
+Sociable	Hòa đồng, gần gũi
+Strict	Nghiêm khắc, khắt khe
+Stubborn	Bướng bỉnh, ngoan cố, ương ngạnh
+Stupid	Ngốc nghếch, đần độn
+Tactful	Lịch thiệp, tế nhị
+Talkative	Hoạt ngôn, ba hoa, nhiều chuyện
+Tricky	Gian xảo, thủ đoạn, quỷ quyệt
+Truthful	Trung thực, thật thà, chân thật
+Unpleasant	Khó chịu, khó ưa
+Vain	Kiêu ngạo, tự phụ, tự đắc
+Wise	Thông thái, khôn ngoan, sáng suốt
+Witty	Hóm hỉnh, dí dỏm
+Zealous	Hăng hái, sốt sắng, có nhiệt huyết
+Helmet	mũ bảo hiểm
+Cowboy	mũ cao bồi
+Balaclava	mũ len trùm đầu và cổ
+Baseball	mũ lưỡi trai
+Baseball	nón lưỡi trai
+Beret	mũ nồi
+Boots	bốt
+Bowler	mũ quả dưa
+Bucket	mũ tai bèo
+Chunky	giày, dép đế thô
+Clog	guốc
+Deerstalker	mũ thợ săn
+Dockside	giày lười Dockside
+Fedora	mũ phớt mềm
+Flat	mũ lưỡi trai
+Hard	mũ bảo hộ
+Hat	mũ
+Loafer	giày lười
+Moccasin	giày Mocca
+Monk	giày quai thầy tu
+Mortar_board	mũ tốt nghiệp
+Sandals	dép xăng-đan
+Slip	giày lười thể thao
+Snapback	mũ lưỡi trai phẳng
+Stilettos	giày gót nhọn
+Top	mũ chóp cao
+Wedge	giầy đế xuồng
+Wellingtons	ủng cao su
+Petrol_station	Trạm xăng
+Bride	cô dâu
+Bridesmaids	phù dâu
+Champagne	rượu sâm-panh
+Groom	chú rể
+Groomsmen	phù rể
+Newlyweds	cặp đôi mới cưới, những người vừa lập gia đình
+Reception	tiệc chiêu đãi sau đám cưới
+Tuxedo	áo tuxedo (lễ phục)
+Cake	Bánh ngọt
+Biscuit	Bánh quy
+Bread	Bánh mì
+Butter	Bơ
+Cheese	Pho mát
+Jam	Mứt
+Chicken	Gà
+Egg	Trứng
+Fish	Cá
+Noodles	Mì ống, mì sợi
+Sausage	Xúc xích, dồi, lạp xưởng
+Soup	Canh, cháo
+Rice	Gạo
+Hamburger	Bánh hăm bơ gơ
+Pork	Thịt lợn
+Beef	Thịt bò
+Bacon	Thịt xông khói.
+Salad	Rau trộn
+Cooking	Rau trộn
+Boil	Luộc 
+Bake	Nướng bằng lò
+Roast	Quay, nướng
+Fry	Chiên, rán
+Grill	Nướng than (trực tiếp)
+Steam	Hấp
+Food	Hấp
+Sweet	Ngọt
+Sour	Chua; ôi; thiu
+Salty	Mặn
+Delicious	Thơm ngon
+Tasty	Ngon, đầy hương vị
+Bland	Nhạt nhẽo
+Horrible	Khó chịu, kinh khủng
+Spicy	Cay, có gia vị
+Hot	Nóng, cay nồng
+Mild	Nhẹ (mùi)
+Fresh	Tươi, mới, tươi sống
+Rotten	Thối rữa, đã hỏng
+Stale	Ôi, thiu (bánh mì, bánh ngọt)
+Mouldy	Bị mốc
+Overdone	Nấu quá chín
+Ripe	Chín (trái cây)
+Unripe	Chưa chính
+Tender	Không dai, mềm
+Tough	Dai
+Beer	Bia
+Wine	Rượu
+Coffee	Cà phê
+Milk	Sữa
+Soda	Nước có ga
+Five-spice	Nước có ga
+Builder.	thợ xây dựng.
+Cashier.	thu ngân.
+Cook.	đầu bếp.
+Dentist.	nha sĩ
+Doctor.	bác sĩ
+Reporter.	phóng viên.
+Tailor.	thợ may.
+Teacher.	giáo viên.
+Air	không khí
+Area	khu vực
+Art	nghệ thuật
+Back	phía sau
+Body	cơ thể
+Book	cuốn sách
+Business	kinh doanh
+Car	xe hơi
+Case	trường hợp
+Change	thay đổi
+Child	con cái 
+City	thành phố
+Community	cộng đồng
+Company	công ty
+Country	đất nước
+Day	ngày
+Door	cánh cửa
+End	kết thúc
+Eye	mắt
+Face	gương mặt
+Fact	sự thật
+Family	gia đình
+Father	cha
+Force	lực lượng
+Friend	người bạn
+Game	trò chơi
+Girl	cô gái
+Government	chính phủ
+Guy	chàng trai
+Hand	bàn tay
+Head	đầu
+Health	sức khỏe
+History	lịch sử
+Home	nhà
+Hour	giờ 
+House	ngôi nhà
+Idea	ý tưởng
+Information	thông tin
+Issue	vấn đề
+Job	nghề nghiệp
+Kid	trẻ con
+Kind	loại
+Law	luật pháp
+Level	cấp bậc 
+Life	cuộc sống
+Line	vạch kẻ
+Lot	từng phần
+Man	đàn ông
+Member	thành viên
+Minute	phút
+Moment	hiện tại
+Money	tiền bạc
+Month	tháng
+Morning	buổi sáng
+Mother	mẹ
+Name	tên gọi
+Night	ban đêm
+Number	con số
+Office	văn phòng
+Others	những cái khác
+Parent	phụ huynh
+Part	bộ phận
+Party	bữa tiệc
+People	con người
+Person	con người
+Place	vị trí
+Point	điểm
+Power	năng lượng
+President	chủ tịch
+Problem	vấn đề
+Program	hương trình
+Question	câu hỏi
+Reason	lý do
+Research	nghiên cứu
+Result	kết quả
+Right	quyền lợi
+Room	căn phòng
+Group	nhóm
+School	trường học
+Service	dịch vụ
+Side	khía cạnh
+State	trạng thái
+Story	câu chuyện
+Student	học sinh
+Study	học tập
+System	hệ thống
+Teacher	giáo viên
+Team	nhóm, đội
+Thing	sự vật
+Time	thời gian
+War	chiến tranh
+Water	nước 
+Way	con đường
+Week	tuần
+Woman	phụ nữ
+Word	từ
+Work	công việc
+World	thế giới
+Year	năm
+Education	giáo dục
+Accept	chấp nhận
+Achieve	đạt được
+Act	ra vẻ, hành động
+Admin	thừa nhận
+Affect	ảnh hưởng tới
+Announce	thông báo
+Apply	áp dụng
+Argue	tranh cãi
+Arrive	đến
+Assume	cho rằng
+Avoid	tránh
+Base	dựa trên
+Break	làm vỡ
+Catch	bắt lấy
+Cause	gây ra
+Choose	chọn
+Claim	tuyên bố
+Close	đóng lại
+Compare	so sánh
+Contain	chứa
+Control	kiểm soát
+Cover	bao phủ
+Cut	cắt bỏ
+Deal	xử lý
+Design	thiết kế
+Determine	xác định
+Discuss	thảo luận
+Drive	lái xe
+Eat	ăn
+Encourage	khuyến khích
+End	kết thúc
+Enjoy	thưởng thức
+Ensure	chắc chắn
+Enter	tiến vào
+Establish	thiết lập
+Exist	tồn tại
+Explain	giải thích
+Express	diễn đạt
+Face	đối mặt 
+Fail	thất bại
+Fill	lấp đầy
+Finish	hoàn thành
+Force	bắt buộc
+Forget	quên
+Form	hình thành
+Grow	lớn lên
+Identify	xác định
+Improve	nâng cao
+Increase	tăng lên
+Indicate	chỉ ra rằng
+Introduce	giới thiệu
+Join	ghép
+Kill	giết
+Learn	học hỏi
+Lie	nói xạo
+Listen	nghe 
+Love	yêu thương
+Maintain	duy trì
+Manage	quản lý
+Mention	nhắc tới
+Note	ghi lại
+Obtain	đạt được
+Occur	xảy ra
+Pass	vượt qua
+Pick	nhặt lên
+Place	đặt, để
+Plan	lên kế hoạch
+Point	chỉ vào
+Prepare	chuẩn bị
+Present	giới thiệu
+Prove	chứng minh
+Publish	xuất bản
+Pull	kéo
+Reduce	giảm
+Refer	nhắc tới
+Reflect	suy nghĩ
+Relate	có liên quan
+Remove	loại bỏ
+Replace	thay thế
+Report	báo cáo
+Represent	đại diện cho
+Rise	tăng lên
+Save	lưu giữ
+Seek	tìm kiếm
+Serve	phục vụ
+Share	chia sẻ
+Smile	mỉm cười
+Stay	ở lại 
+Suffer	chịu khổ
+Support	ủng hộ
+Suppose	giả sử
+Tend	có xu hướng
+Thank	cảm ơn
+Throw	ném
+Treat	đối xử
+Visit	thăm nom
+Watch	xem
+Wear	đội, mặc
+Wish	muốn
+Wonder	tự hỏi
+A	rất nhiều
+Absolutely	tuyệt đối
+Accurately	một cách chính xác
+Almost	gần như
+Already	đã rồi
+Always	luôn luôn
+Angrily	một cách tức giận
+Anxiously	một cách lo
+Anywhere	bất kỳ đâu
+As	kết quả là
+Away	đi khỏi
+Badly	cực kì
+Beautifully	một cách đẹp đẽ
+Besides	bên cạnh đó
+Bravely	một cách dũng cảm
+Carefully	một cách cẩn thận
+Carelessly	một cách cẩu thả
+Cautiously	một cách cẩn trọng
+Early	sớm
+Easily	một cách dễ dàng
+Enormously	cực kì
+Enough	đủ
+Entirely	toàn bộ
+Especially	đặc biệt là
+Everywhere	khắp mọi nơi
+Expertly	một cách điêu luyện
+Finally	cuối cùng thì
+Frequently	thường xuyên
+Fully	hoàn toàn
+Furthermore	hơn nữa
+Generally	nói chung
+Greedily	một cách tham lam
+Happily	một cách vui vẻ
+Hardly	hầu như không
+Hardly	hầu như không
+Here	ở đây
+Highly	hết sức
+However	mặc dù
+Hungrily	một cách đói khát
+Inside	bên trong
+Instead	thay vào đó
+Just	chỉ
+Largely	phần lớn là
+Lately	gần đây
+Lazily	một cách lười biếng
+Little	một ít
+Loudly	một cách ồn ào
+Mainly	chủ yếu là
+Moreover	hơn nữa
+Nearby	gần đây
+Never	không bao giờ
+Now	ngay bây giờ
+Nowhere	không ở đâu cả
+Occasionally	đôi khi
+Often	thường
+Only	duy nhất
+Outside	bên ngoài
+Particularly	cụ thể là
+Perfectly	hoàn hảo
+Politely	một cách lịch sự
+Pretty	khá là
+Professionally	một cách chuyên nghiệp
+Quickly	một cách nhanh chóng
+Quite	khá là
+Rarely	hiếm khi
+Rather	khá là
+Recently	gần đây
+Recklessly	một cách bất cẩn
+Remarkably	đáng kể
+Seldom	hiếm khi
+Simply	đơn giản
+Simply	đơn giản là
+Slightly	một chút
+Sometimes	thỉnh thoảng
+Somewhere	một nơi nào đó
+Soon	sớm thôi
+Specifically	cụ thể là
+Still	vẫn
+Strongly	cực kì
+Terribly	cực kì
+Then	sau đó
+There	ở kia
+Tomorrow	ngày mai
+Unlike	không giống như
+Usually	thường xuyên
+Very	rất
+Yesterday	hôm qua
+Add	 cộng
+Addition	phép cộng                     
+Algebra	đại số
+Angle	góc
+Arithmetic	số học                    
+Circle	hình tròn                                  
+Circumference	chu vi đường tròn
+Cube	hình lập phương
+Curve	đường cong                           
+Decimal	thập phân                       
+Decimal	dấu thập phân
+Diameter	đường kính                
+Divide	chia                                    
+Division	phép chia
+Equal	bằng
+Fraction	phân số
+Geometry	hình học                    
+Height	chiều cao                               
+Hexagon	hình lục giác
+Length	chiều dài                              
+Minus	âm                                     
+Multiplication	phép nhân
+Multiply	nhân
+Oval	hình bầu dục                           
+Parallel	song song
+Pentagon	hình ngũ giác            
+Percent	phần trăm
+Percentage	tỷ lệ phần trăm
+Plus	dương
+Pyramid	hình chóp                   
+Radius	bán kính
+Rectangle	hình chữ nhật
+Right	góc vuông
+Sphere	hình cầu
+Square	hình vuông
+Square	căn bình phương
+Squared	bình phương                 
+Straight	đường thẳng
+Subtract	trừ
+Subtraction phép trừ
+Take	trừ đi
+Times	lần
+Total	Tổng
+Triangle	hình tam giác
+Volume	dung lượng
+Width	chiều rộng
